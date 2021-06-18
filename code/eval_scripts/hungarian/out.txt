@@ -1,0 +1,1152 @@
+-----------results/A/1/hungarian_0-2.results-----------
+Extra Delivery Time = 0.3106592951873768
+DE Wait Time = 2.0518550269625244
+Number of Orders Delivered = 845
+Orders per Km = 0.5896589915707127
+Rejected Orders = 0
+Average Runtime = 0.240566375
+Percent Violations = 0.0
+-----------results/A/1/hungarian_12-14.results-----------
+Extra Delivery Time = 0.5762621420532554
+DE Wait Time = 1.5030009096213859
+Number of Orders Delivered = 4807
+Orders per Km = 0.5468903990970441
+Rejected Orders = 0
+Average Runtime = 4.7444944
+Percent Violations = 0.0
+-----------results/A/1/hungarian_14-16.results-----------
+Extra Delivery Time = 0.6696788258435193
+DE Wait Time = 1.527296242776557
+Number of Orders Delivered = 3191
+Orders per Km = 0.5431665703884411
+Rejected Orders = 0
+Average Runtime = 1.6333132249999998
+Percent Violations = 0.0
+-----------results/A/1/hungarian_16-18.results-----------
+Extra Delivery Time = 0.7011295195637485
+DE Wait Time = 1.5788075465018898
+Number of Orders Delivered = 2468
+Orders per Km = 0.532234771768465
+Rejected Orders = 0
+Average Runtime = 1.019472425
+Percent Violations = 0.0
+-----------results/A/1/hungarian_18-20.results-----------
+Extra Delivery Time = 0.4842144624691741
+DE Wait Time = 1.611426492010889
+Number of Orders Delivered = 3244
+Orders per Km = 0.5306656957371949
+Rejected Orders = 0
+Average Runtime = 2.06199085
+Percent Violations = 0.0
+-----------results/A/1/hungarian_20-22.results-----------
+Extra Delivery Time = 0.5136375159344214
+DE Wait Time = 1.45770538425801
+Number of Orders Delivered = 6669
+Orders per Km = 0.5760367641023078
+Rejected Orders = 1
+Average Runtime = 7.964533299999999
+Percent Violations = 0.0
+-----------results/A/1/hungarian_22-24.results-----------
+Extra Delivery Time = 0.5075037914197744
+DE Wait Time = 1.4901931628964789
+Number of Orders Delivered = 2869
+Orders per Km = 0.5539241693672703
+Rejected Orders = 1
+Average Runtime = 1.466019875
+Percent Violations = 0.0
+-----------results/A/1/hungarian_8-10.results-----------
+Extra Delivery Time = 0.6781536773245634
+DE Wait Time = 2.0342903432894737
+Number of Orders Delivered = 380
+Orders per Km = 0.4614238287958013
+Rejected Orders = 0
+Average Runtime = 0.026467225
+Percent Violations = 0.0
+-----------results/A/2/hungarian_0-2.results-----------
+Extra Delivery Time = 0.40139562803217804
+DE Wait Time = 2.069211283910891
+Number of Orders Delivered = 808
+Orders per Km = 0.5941225812393952
+Rejected Orders = 0
+Average Runtime = 0.129152025
+Percent Violations = 0.0
+-----------results/A/2/hungarian_12-14.results-----------
+Extra Delivery Time = 0.6905210410090914
+DE Wait Time = 1.518821927999676
+Number of Orders Delivered = 4106
+Orders per Km = 0.545787692948973
+Rejected Orders = 0
+Average Runtime = 3.1445678
+Percent Violations = 0.0
+-----------results/A/2/hungarian_14-16.results-----------
+Extra Delivery Time = 0.5935489296576231
+DE Wait Time = 1.5856822591020672
+Number of Orders Delivered = 2580
+Orders per Km = 0.5317524278643371
+Rejected Orders = 0
+Average Runtime = 0.8990238500000001
+Percent Violations = 0.0
+-----------results/A/2/hungarian_16-18.results-----------
+Extra Delivery Time = 0.6664515725233937
+DE Wait Time = 1.621218372676667
+Number of Orders Delivered = 2066
+Orders per Km = 0.5490870227829968
+Rejected Orders = 0
+Average Runtime = 0.5280735999999999
+Percent Violations = 0.0
+-----------results/A/2/hungarian_18-20.results-----------
+Extra Delivery Time = 0.45934601959770155
+DE Wait Time = 1.7602685981162167
+Number of Orders Delivered = 2610
+Orders per Km = 0.5359032328721332
+Rejected Orders = 1
+Average Runtime = 1.3596650499999998
+Percent Violations = 0.0
+-----------results/A/2/hungarian_20-22.results-----------
+Extra Delivery Time = 0.5226146538132631
+DE Wait Time = 1.4852770405497389
+Number of Orders Delivered = 5730
+Orders per Km = 0.5750815084578309
+Rejected Orders = 2
+Average Runtime = 6.014934575
+Percent Violations = 0.0
+-----------results/A/2/hungarian_22-24.results-----------
+Extra Delivery Time = 0.5313540202269936
+DE Wait Time = 1.5089042899270346
+Number of Orders Delivered = 2467
+Orders per Km = 0.5668622818963384
+Rejected Orders = 0
+Average Runtime = 1.228653625
+Percent Violations = 0.0
+-----------results/A/2/hungarian_8-10.results-----------
+Extra Delivery Time = 0.819908333535969
+DE Wait Time = 1.956760941084092
+Number of Orders Delivered = 329
+Orders per Km = 0.4644803612792817
+Rejected Orders = 0
+Average Runtime = 0.04089775
+Percent Violations = 0.0
+-----------results/A/3/hungarian_0-2.results-----------
+Extra Delivery Time = 0.3977658256936065
+DE Wait Time = 2.063011840329714
+Number of Orders Delivered = 829
+Orders per Km = 0.5690836265710556
+Rejected Orders = 0
+Average Runtime = 0.2244711
+Percent Violations = 0.0
+-----------results/A/3/hungarian_12-14.results-----------
+Extra Delivery Time = 0.5803275112165266
+DE Wait Time = 1.521136962424019
+Number of Orders Delivered = 4058
+Orders per Km = 0.5383749293176812
+Rejected Orders = 0
+Average Runtime = 2.407817
+Percent Violations = 0.0
+-----------results/A/3/hungarian_14-16.results-----------
+Extra Delivery Time = 0.6189501871485231
+DE Wait Time = 1.5922273211877263
+Number of Orders Delivered = 2857
+Orders per Km = 0.5468830150277935
+Rejected Orders = 0
+Average Runtime = 1.11263595
+Percent Violations = 0.0
+-----------results/A/3/hungarian_16-18.results-----------
+Extra Delivery Time = 0.7147459449656954
+DE Wait Time = 1.6597994020663802
+Number of Orders Delivered = 2089
+Orders per Km = 0.524305086348326
+Rejected Orders = 1
+Average Runtime = 0.51607995
+Percent Violations = 0.0
+-----------results/A/3/hungarian_18-20.results-----------
+Extra Delivery Time = 0.5037963657995064
+DE Wait Time = 1.672969236451411
+Number of Orders Delivered = 2710
+Orders per Km = 0.5286031425462816
+Rejected Orders = 1
+Average Runtime = 1.3772858000000001
+Percent Violations = 0.0
+-----------results/A/3/hungarian_20-22.results-----------
+Extra Delivery Time = 0.554811147448978
+DE Wait Time = 1.433908385830364
+Number of Orders Delivered = 6174
+Orders per Km = 0.5758911440647652
+Rejected Orders = 0
+Average Runtime = 6.9348882000000005
+Percent Violations = 0.0
+-----------results/A/3/hungarian_22-24.results-----------
+Extra Delivery Time = 0.5489847309676978
+DE Wait Time = 1.5008612589551151
+Number of Orders Delivered = 2332
+Orders per Km = 0.5530345888877662
+Rejected Orders = 0
+Average Runtime = 0.9973850750000001
+Percent Violations = 0.0
+-----------results/A/3/hungarian_8-10.results-----------
+Extra Delivery Time = 0.7896097395953707
+DE Wait Time = 1.9760577740847758
+Number of Orders Delivered = 346
+Orders per Km = 0.41581013520375126
+Rejected Orders = 0
+Average Runtime = 0.028779975000000003
+Percent Violations = 0.0
+-----------results/A/4/hungarian_0-2.results-----------
+Extra Delivery Time = 0.29185966175814376
+DE Wait Time = 2.1891693735832214
+Number of Orders Delivered = 747
+Orders per Km = 0.5374783875870601
+Rejected Orders = 0
+Average Runtime = 0.17661739999999998
+Percent Violations = 0.0
+-----------results/A/4/hungarian_12-14.results-----------
+Extra Delivery Time = 0.5887843599124303
+DE Wait Time = 1.4809577544960675
+Number of Orders Delivered = 4111
+Orders per Km = 0.5266064463270418
+Rejected Orders = 0
+Average Runtime = 3.0801367
+Percent Violations = 0.0
+-----------results/A/4/hungarian_14-16.results-----------
+Extra Delivery Time = 0.6069321454018614
+DE Wait Time = 1.6426697755381479
+Number of Orders Delivered = 2617
+Orders per Km = 0.5126384553673963
+Rejected Orders = 0
+Average Runtime = 1.228839975
+Percent Violations = 0.0
+-----------results/A/4/hungarian_16-18.results-----------
+Extra Delivery Time = 0.7117188515792153
+DE Wait Time = 1.6888331585413483
+Number of Orders Delivered = 1963
+Orders per Km = 0.5161194059434987
+Rejected Orders = 0
+Average Runtime = 0.6757860750000001
+Percent Violations = 0.0
+-----------results/A/4/hungarian_18-20.results-----------
+Extra Delivery Time = 0.5282973549481208
+DE Wait Time = 1.6272437280220493
+Number of Orders Delivered = 2570
+Orders per Km = 0.5152976048316127
+Rejected Orders = 0
+Average Runtime = 1.2205490749999999
+Percent Violations = 0.0
+-----------results/A/4/hungarian_20-22.results-----------
+Extra Delivery Time = 0.5269644752034053
+DE Wait Time = 1.486998531433846
+Number of Orders Delivered = 5326
+Orders per Km = 0.5709884799883961
+Rejected Orders = 0
+Average Runtime = 4.4557983000000005
+Percent Violations = 0.0
+-----------results/A/4/hungarian_22-24.results-----------
+Extra Delivery Time = 0.5953404647029215
+DE Wait Time = 1.538826830304992
+Number of Orders Delivered = 2317
+Orders per Km = 0.5578292844776822
+Rejected Orders = 0
+Average Runtime = 1.009446125
+Percent Violations = 0.0
+-----------results/A/4/hungarian_8-10.results-----------
+Extra Delivery Time = 0.9386443291523461
+DE Wait Time = 2.2102926658648308
+Number of Orders Delivered = 291
+Orders per Km = 0.4343657244573661
+Rejected Orders = 0
+Average Runtime = 0.036804925
+Percent Violations = 0.0
+-----------results/A/5/hungarian_0-2.results-----------
+Extra Delivery Time = 0.3175438627646128
+DE Wait Time = 2.0114664310268564
+Number of Orders Delivered = 1055
+Orders per Km = 0.590518573985444
+Rejected Orders = 0
+Average Runtime = 0.19979439999999998
+Percent Violations = 0.0
+-----------results/A/5/hungarian_12-14.results-----------
+Extra Delivery Time = 0.6371688623292594
+DE Wait Time = 1.4612532313443563
+Number of Orders Delivered = 5564
+Orders per Km = 0.5695517841258716
+Rejected Orders = 0
+Average Runtime = 5.369599200000001
+Percent Violations = 0.0
+-----------results/A/5/hungarian_14-16.results-----------
+Extra Delivery Time = 0.6411470382509165
+DE Wait Time = 1.5386351242765568
+Number of Orders Delivered = 3640
+Orders per Km = 0.5464686877944203
+Rejected Orders = 0
+Average Runtime = 2.374348475
+Percent Violations = 0.0
+-----------results/A/5/hungarian_16-18.results-----------
+Extra Delivery Time = 0.650011311149341
+DE Wait Time = 1.5927143377218402
+Number of Orders Delivered = 2761
+Orders per Km = 0.5324386125486081
+Rejected Orders = 0
+Average Runtime = 0.8510728999999999
+Percent Violations = 0.0
+-----------results/A/5/hungarian_18-20.results-----------
+Extra Delivery Time = 0.5024777563751907
+DE Wait Time = 1.4826004857889117
+Number of Orders Delivered = 5009
+Orders per Km = 0.5411570869994011
+Rejected Orders = 1
+Average Runtime = 4.928311675
+Percent Violations = 0.0
+-----------results/A/5/hungarian_20-22.results-----------
+Extra Delivery Time = 0.5129127045922912
+DE Wait Time = 1.3163022890138378
+Number of Orders Delivered = 10093
+Orders per Km = 0.558282068070973
+Rejected Orders = 0
+Average Runtime = 17.348977525000002
+Percent Violations = 0.0
+-----------results/A/5/hungarian_22-24.results-----------
+Extra Delivery Time = 0.47769069595222213
+DE Wait Time = 1.5153285073545664
+Number of Orders Delivered = 3014
+Orders per Km = 0.5500851017457505
+Rejected Orders = 0
+Average Runtime = 1.835962375
+Percent Violations = 0.0
+-----------results/A/5/hungarian_8-10.results-----------
+Extra Delivery Time = 0.900180454325513
+DE Wait Time = 1.77369640896872
+Number of Orders Delivered = 682
+Orders per Km = 0.47211569316366386
+Rejected Orders = 0
+Average Runtime = 0.09651117499999999
+Percent Violations = 0.0
+-----------results/A/6/hungarian_0-2.results-----------
+Extra Delivery Time = 0.38270143635346776
+DE Wait Time = 2.1202568396420585
+Number of Orders Delivered = 745
+Orders per Km = 0.5518803560808767
+Rejected Orders = 0
+Average Runtime = 0.15134485
+Percent Violations = 0.0
+-----------results/A/6/hungarian_12-14.results-----------
+Extra Delivery Time = 0.5982448399443779
+DE Wait Time = 1.5204529164600729
+Number of Orders Delivered = 4195
+Orders per Km = 0.5568911660670653
+Rejected Orders = 0
+Average Runtime = 3.02156455
+Percent Violations = 0.0
+-----------results/A/6/hungarian_14-16.results-----------
+Extra Delivery Time = 0.5863562628623883
+DE Wait Time = 1.5880096712811753
+Number of Orders Delivered = 2633
+Orders per Km = 0.5337273890899519
+Rejected Orders = 0
+Average Runtime = 1.210432275
+Percent Violations = 0.0
+-----------results/A/6/hungarian_16-18.results-----------
+Extra Delivery Time = 2.9015404092713104
+DE Wait Time = 1.41614971109304
+Number of Orders Delivered = 1537
+Orders per Km = 0.5683152245241765
+Rejected Orders = 488
+Average Runtime = 0.292920175
+Percent Violations = 0.0
+-----------results/A/6/hungarian_18-20.results-----------
+Extra Delivery Time = 0.47035412597663284
+DE Wait Time = 1.7246637424059876
+Number of Orders Delivered = 2739
+Orders per Km = 0.5455613023993834
+Rejected Orders = 0
+Average Runtime = 1.3571936500000001
+Percent Violations = 0.0
+-----------results/A/6/hungarian_20-22.results-----------
+Extra Delivery Time = 0.5362832045940183
+DE Wait Time = 1.4466822582745753
+Number of Orders Delivered = 6240
+Orders per Km = 0.5906437425314253
+Rejected Orders = 0
+Average Runtime = 6.7579106499999995
+Percent Violations = 0.0
+-----------results/A/6/hungarian_22-24.results-----------
+Extra Delivery Time = 0.4778832629878954
+DE Wait Time = 1.6186335505643965
+Number of Orders Delivered = 2451
+Orders per Km = 0.5507029258588387
+Rejected Orders = 0
+Average Runtime = 1.1367339250000001
+Percent Violations = 0.0
+-----------results/A/6/hungarian_8-10.results-----------
+Extra Delivery Time = 0.6303576704838681
+DE Wait Time = 2.416919529408602
+Number of Orders Delivered = 310
+Orders per Km = 0.49570392847839134
+Rejected Orders = 0
+Average Runtime = 0.027153700000000003
+Percent Violations = 0.0
+-----------results/B/1/hungarian_12-14.results-----------
+Extra Delivery Time = 0.26969643240049745
+DE Wait Time = 1.4307343123223168
+Number of Orders Delivered = 33768
+Orders per Km = 0.6089856101180463
+Rejected Orders = 18
+Average Runtime = 245.48106322499999
+Percent Violations = 72.5
+-----------results/B/1/hungarian_14-16.results-----------
+Extra Delivery Time = 0.3270655123328741
+DE Wait Time = 1.4543567350607265
+Number of Orders Delivered = 26128
+Orders per Km = 0.611569536995654
+Rejected Orders = 7
+Average Runtime = 130.91249175
+Percent Violations = 32.5
+-----------results/B/1/hungarian_16-18.results-----------
+Extra Delivery Time = 0.36997385037976604
+DE Wait Time = 1.538538299168709
+Number of Orders Delivered = 15097
+Orders per Km = 0.5887911370202591
+Rejected Orders = 2
+Average Runtime = 39.928616925
+Percent Violations = 0.0
+-----------results/B/1/hungarian_18-20.results-----------
+Extra Delivery Time = 0.3094514756924886
+DE Wait Time = 1.525475357618105
+Number of Orders Delivered = 22720
+Orders per Km = 0.5944153756502143
+Rejected Orders = 4
+Average Runtime = 105.25953374999999
+Percent Violations = 22.5
+-----------results/B/1/hungarian_20-22.results-----------
+Extra Delivery Time = 0.2840185538774988
+DE Wait Time = 1.4566212886705043
+Number of Orders Delivered = 43069
+Orders per Km = 0.6160855625053944
+Rejected Orders = 6
+Average Runtime = 392.915250675
+Percent Violations = 95.0
+-----------results/B/1/hungarian_22-24.results-----------
+Extra Delivery Time = 0.3182079313971054
+DE Wait Time = 1.4803594129425346
+Number of Orders Delivered = 18765
+Orders per Km = 0.6050047916573067
+Rejected Orders = 0
+Average Runtime = 73.48817435
+Percent Violations = 2.5
+-----------results/B/1/hungarian_2-4.results-----------
+Extra Delivery Time = 0.35899538495402283
+DE Wait Time = 2.072229133735632
+Number of Orders Delivered = 1450
+Orders per Km = 0.5644824413581615
+Rejected Orders = 1
+Average Runtime = 0.5376333750000001
+Percent Violations = 0.0
+-----------results/B/1/hungarian_8-10.results-----------
+Extra Delivery Time = 0.3891896912117739
+DE Wait Time = 1.5209869017975588
+Number of Orders Delivered = 11358
+Orders per Km = 0.5740432358074539
+Rejected Orders = 0
+Average Runtime = 21.81302585
+Percent Violations = 0.0
+-----------results/B/2/hungarian_12-14.results-----------
+Extra Delivery Time = 0.2691585880902879
+DE Wait Time = 1.4439348183867464
+Number of Orders Delivered = 27896
+Orders per Km = 0.6135634522645023
+Rejected Orders = 19
+Average Runtime = 150.64257467500002
+Percent Violations = 35.0
+-----------results/B/2/hungarian_14-16.results-----------
+Extra Delivery Time = 0.28080866344675653
+DE Wait Time = 1.5849315256684218
+Number of Orders Delivered = 15958
+Orders per Km = 0.5898061980452671
+Rejected Orders = 4
+Average Runtime = 50.885132125
+Percent Violations = 0.0
+-----------results/B/2/hungarian_16-18.results-----------
+Extra Delivery Time = 0.32265006261488693
+DE Wait Time = 1.666549706208739
+Number of Orders Delivered = 10300
+Orders per Km = 0.5677950109932208
+Rejected Orders = 5
+Average Runtime = 18.71986775
+Percent Violations = 0.0
+-----------results/B/2/hungarian_18-20.results-----------
+Extra Delivery Time = 0.27461720412834956
+DE Wait Time = 1.5875781869190242
+Number of Orders Delivered = 20117
+Orders per Km = 0.58470889331722
+Rejected Orders = 11
+Average Runtime = 87.509576525
+Percent Violations = 17.5
+-----------results/B/2/hungarian_20-22.results-----------
+Extra Delivery Time = 0.26484665675193353
+DE Wait Time = 1.4447295161335587
+Number of Orders Delivered = 43237
+Orders per Km = 0.6161294060255053
+Rejected Orders = 12
+Average Runtime = 407.67933204999997
+Percent Violations = 95.0
+-----------results/B/2/hungarian_22-24.results-----------
+Extra Delivery Time = 0.290732844581844
+DE Wait Time = 1.4531169185342077
+Number of Orders Delivered = 20419
+Orders per Km = 0.5989394692470559
+Rejected Orders = 4
+Average Runtime = 84.1296857
+Percent Violations = 17.5
+-----------results/B/2/hungarian_2-4.results-----------
+Extra Delivery Time = 0.31043920128500174
+DE Wait Time = 2.294999547775221
+Number of Orders Delivered = 869
+Orders per Km = 0.5476297837781788
+Rejected Orders = 0
+Average Runtime = 0.196578525
+Percent Violations = 0.0
+-----------results/B/2/hungarian_8-10.results-----------
+Extra Delivery Time = 0.3902931738802747
+DE Wait Time = 1.6087730341537472
+Number of Orders Delivered = 7740
+Orders per Km = 0.5687223167509672
+Rejected Orders = 0
+Average Runtime = 9.27570895
+Percent Violations = 0.0
+-----------results/B/3/hungarian_12-14.results-----------
+Extra Delivery Time = 0.31018318493473385
+DE Wait Time = 1.3743681977892777
+Number of Orders Delivered = 38841
+Orders per Km = 0.6145576465551591
+Rejected Orders = 14
+Average Runtime = 315.423702675
+Percent Violations = 85.0
+-----------results/B/3/hungarian_14-16.results-----------
+Extra Delivery Time = 0.36762124665795465
+DE Wait Time = 1.3595164339394623
+Number of Orders Delivered = 30989
+Orders per Km = 0.6038499814541296
+Rejected Orders = 3
+Average Runtime = 180.514922025
+Percent Violations = 45.0
+-----------results/B/3/hungarian_16-18.results-----------
+Extra Delivery Time = 0.40135129040763506
+DE Wait Time = 1.4928066486234004
+Number of Orders Delivered = 15594
+Orders per Km = 0.5878738781280722
+Rejected Orders = 3
+Average Runtime = 38.96871785
+Percent Violations = 0.0
+-----------results/B/3/hungarian_18-20.results-----------
+Extra Delivery Time = 0.31046538716013083
+DE Wait Time = 1.5060743394702736
+Number of Orders Delivered = 24176
+Orders per Km = 0.602123923901103
+Rejected Orders = 8
+Average Runtime = 114.77784857500001
+Percent Violations = 27.500000000000004
+-----------results/B/3/hungarian_20-22.results-----------
+Extra Delivery Time = 0.29658410379851524
+DE Wait Time = 1.4179680432111876
+Number of Orders Delivered = 44728
+Orders per Km = 0.6234228827379286
+Rejected Orders = 9
+Average Runtime = 419.20362427500004
+Percent Violations = 95.0
+-----------results/B/3/hungarian_22-24.results-----------
+Extra Delivery Time = 0.30581227957901014
+DE Wait Time = 1.4922595891430626
+Number of Orders Delivered = 17158
+Orders per Km = 0.6038211595569376
+Rejected Orders = 0
+Average Runtime = 62.088446499999996
+Percent Violations = 5.0
+-----------results/B/3/hungarian_2-4.results-----------
+Extra Delivery Time = 0.34105168666666674
+DE Wait Time = 2.0088524777126917
+Number of Orders Delivered = 1195
+Orders per Km = 0.5140293050362508
+Rejected Orders = 0
+Average Runtime = 0.317895975
+Percent Violations = 0.0
+-----------results/B/3/hungarian_8-10.results-----------
+Extra Delivery Time = 0.4551511519841942
+DE Wait Time = 1.389877119647879
+Number of Orders Delivered = 11852
+Orders per Km = 0.5838426447472037
+Rejected Orders = 0
+Average Runtime = 21.041186275
+Percent Violations = 0.0
+-----------results/B/4/hungarian_12-14.results-----------
+Extra Delivery Time = 0.2969876142805641
+DE Wait Time = 1.468518857453399
+Number of Orders Delivered = 24964
+Orders per Km = 0.6051727903589563
+Rejected Orders = 1
+Average Runtime = 112.47716942500001
+Percent Violations = 0.0
+-----------results/B/4/hungarian_14-16.results-----------
+Extra Delivery Time = 0.33471140344045536
+DE Wait Time = 1.5768458203166176
+Number of Orders Delivered = 15434
+Orders per Km = 0.5870839962287013
+Rejected Orders = 1
+Average Runtime = 45.02321945
+Percent Violations = 0.0
+-----------results/B/4/hungarian_16-18.results-----------
+Extra Delivery Time = 0.37135170725283273
+DE Wait Time = 1.6999340647429333
+Number of Orders Delivered = 9764
+Orders per Km = 0.563674843831772
+Rejected Orders = 3
+Average Runtime = 16.316986800000002
+Percent Violations = 0.0
+-----------results/B/4/hungarian_18-20.results-----------
+Extra Delivery Time = 0.33016048707031453
+DE Wait Time = 1.5587725763988125
+Number of Orders Delivered = 18754
+Orders per Km = 0.5877234108530452
+Rejected Orders = 6
+Average Runtime = 64.57066132499999
+Percent Violations = 0.0
+-----------results/B/4/hungarian_20-22.results-----------
+Extra Delivery Time = 0.27578238793766685
+DE Wait Time = 1.5003104789934643
+Number of Orders Delivered = 33968
+Orders per Km = 0.5949968854096871
+Rejected Orders = 8
+Average Runtime = 226.58941455000004
+Percent Violations = 92.5
+-----------results/B/4/hungarian_22-24.results-----------
+Extra Delivery Time = 0.3115699788272521
+DE Wait Time = 1.5155063787937697
+Number of Orders Delivered = 15431
+Orders per Km = 0.5858972492168079
+Rejected Orders = 2
+Average Runtime = 49.841782375
+Percent Violations = 0.0
+-----------results/B/4/hungarian_2-4.results-----------
+Extra Delivery Time = 0.3794298413766439
+DE Wait Time = 2.358613071384377
+Number of Orders Delivered = 862
+Orders per Km = 0.5429873595278925
+Rejected Orders = 0
+Average Runtime = 0.182269125
+Percent Violations = 0.0
+-----------results/B/4/hungarian_8-10.results-----------
+Extra Delivery Time = 0.45642609497857756
+DE Wait Time = 1.5669678483097675
+Number of Orders Delivered = 7780
+Orders per Km = 0.5556133756908267
+Rejected Orders = 0
+Average Runtime = 8.1200988
+Percent Violations = 0.0
+-----------results/B/5/hungarian_12-14.results-----------
+Extra Delivery Time = 0.33188901233677065
+DE Wait Time = 1.324106309567123
+Number of Orders Delivered = 44416
+Orders per Km = 0.6255390973268771
+Rejected Orders = 12
+Average Runtime = 380.915923975
+Percent Violations = 90.0
+-----------results/B/5/hungarian_14-16.results-----------
+Extra Delivery Time = 0.396577717612185
+DE Wait Time = 1.354394094501037
+Number of Orders Delivered = 30530
+Orders per Km = 0.6222927212794535
+Rejected Orders = 1
+Average Runtime = 170.71129757499997
+Percent Violations = 45.0
+-----------results/B/5/hungarian_16-18.results-----------
+Extra Delivery Time = 0.419226006950576
+DE Wait Time = 1.4578722200084886
+Number of Orders Delivered = 17670
+Orders per Km = 0.5954069806255357
+Rejected Orders = 0
+Average Runtime = 48.997652425
+Percent Violations = 0.0
+-----------results/B/5/hungarian_18-20.results-----------
+Extra Delivery Time = 0.34542400062039863
+DE Wait Time = 1.4128098901957407
+Number of Orders Delivered = 28933
+Orders per Km = 0.6048927265361841
+Rejected Orders = 7
+Average Runtime = 159.710460975
+Percent Violations = 37.5
+-----------results/B/5/hungarian_20-22.results-----------
+Extra Delivery Time = 0.2890656755764435
+DE Wait Time = 1.4142584667085887
+Number of Orders Delivered = 45321
+Orders per Km = 0.6030685023252899
+Rejected Orders = 7
+Average Runtime = 424.665618575
+Percent Violations = 95.0
+-----------results/B/5/hungarian_22-24.results-----------
+Extra Delivery Time = 0.3001502132194892
+DE Wait Time = 1.4676261360349987
+Number of Orders Delivered = 17773
+Orders per Km = 0.5883528335809193
+Rejected Orders = 0
+Average Runtime = 63.782120899999995
+Percent Violations = 0.0
+-----------results/B/5/hungarian_2-4.results-----------
+Extra Delivery Time = 0.3514407461231016
+DE Wait Time = 1.9269962569844128
+Number of Orders Delivered = 1668
+Orders per Km = 0.5980847038371844
+Rejected Orders = 0
+Average Runtime = 0.6209104
+Percent Violations = 0.0
+-----------results/B/5/hungarian_8-10.results-----------
+Extra Delivery Time = 0.4325655782265396
+DE Wait Time = 1.3642468224187683
+Number of Orders Delivered = 14670
+Orders per Km = 0.5917128285155132
+Rejected Orders = 2
+Average Runtime = 29.469354050000003
+Percent Violations = 0.0
+-----------results/B/6/hungarian_12-14.results-----------
+Extra Delivery Time = 0.27349909164096364
+DE Wait Time = 1.4722657165922617
+Number of Orders Delivered = 24640
+Orders per Km = 0.6107352094027616
+Rejected Orders = 4
+Average Runtime = 117.93940027500003
+Percent Violations = 0.0
+-----------results/B/6/hungarian_14-16.results-----------
+Extra Delivery Time = 0.29201419109222765
+DE Wait Time = 1.6202930100487196
+Number of Orders Delivered = 14710
+Orders per Km = 0.5916090383840543
+Rejected Orders = 1
+Average Runtime = 38.777118325
+Percent Violations = 0.0
+-----------results/B/6/hungarian_16-18.results-----------
+Extra Delivery Time = 2.386921846966971
+DE Wait Time = 1.4281974091504952
+Number of Orders Delivered = 7781
+Orders per Km = 0.5876819587133726
+Rejected Orders = 2282
+Average Runtime = 9.501047275000001
+Percent Violations = 0.0
+-----------results/B/6/hungarian_18-20.results-----------
+Extra Delivery Time = 0.21823567369232083
+DE Wait Time = 1.6609958109166236
+Number of Orders Delivered = 18710
+Orders per Km = 0.5952879280463244
+Rejected Orders = 7
+Average Runtime = 64.9940173
+Percent Violations = 2.5
+-----------results/B/6/hungarian_20-22.results-----------
+Extra Delivery Time = 0.24242520731775347
+DE Wait Time = 1.4926555585274417
+Number of Orders Delivered = 38853
+Orders per Km = 0.6173861942453466
+Rejected Orders = 13
+Average Runtime = 309.51030805
+Percent Violations = 92.5
+-----------results/B/6/hungarian_22-24.results-----------
+Extra Delivery Time = 0.25485938806828573
+DE Wait Time = 1.530352503888035
+Number of Orders Delivered = 16255
+Orders per Km = 0.6083295207147845
+Rejected Orders = 2
+Average Runtime = 52.630345549999994
+Percent Violations = 0.0
+-----------results/B/6/hungarian_2-4.results-----------
+Extra Delivery Time = 0.3712197636054422
+DE Wait Time = 2.249107229191676
+Number of Orders Delivered = 833
+Orders per Km = 0.5574823525562171
+Rejected Orders = 0
+Average Runtime = 0.18398227500000003
+Percent Violations = 0.0
+-----------results/B/6/hungarian_8-10.results-----------
+Extra Delivery Time = 0.4097678565299873
+DE Wait Time = 1.5940443542740905
+Number of Orders Delivered = 7292
+Orders per Km = 0.5668463091812858
+Rejected Orders = 1
+Average Runtime = 7.523151350000001
+Percent Violations = 0.0
+-----------results/C/1/hungarian_10-12.results-----------
+Extra Delivery Time = 0.44024944073353034
+DE Wait Time = 2.123373553948832
+Number of Orders Delivered = 5394
+Orders per Km = 0.503930791892572
+Rejected Orders = 1
+Average Runtime = 6.721203925
+Percent Violations = 0.0
+-----------results/C/1/hungarian_12-14.results-----------
+Extra Delivery Time = 0.3472745314938688
+DE Wait Time = 1.8929147894611664
+Number of Orders Delivered = 13455
+Orders per Km = 0.5306273796043784
+Rejected Orders = 0
+Average Runtime = 42.3961994
+Percent Violations = 0.0
+-----------results/C/1/hungarian_14-16.results-----------
+Extra Delivery Time = 0.40330026952092696
+DE Wait Time = 1.8431209661179606
+Number of Orders Delivered = 13547
+Orders per Km = 0.5246219727432574
+Rejected Orders = 0
+Average Runtime = 40.700956
+Percent Violations = 0.0
+-----------results/C/1/hungarian_16-18.results-----------
+Extra Delivery Time = 0.4532839687435153
+DE Wait Time = 1.9013713218445631
+Number of Orders Delivered = 9959
+Orders per Km = 0.5440462397322086
+Rejected Orders = 0
+Average Runtime = 19.533666
+Percent Violations = 0.0
+-----------results/C/1/hungarian_18-20.results-----------
+Extra Delivery Time = 0.35825342069161786
+DE Wait Time = 1.9032637275254347
+Number of Orders Delivered = 13760
+Orders per Km = 0.5511157383276988
+Rejected Orders = 0
+Average Runtime = 40.48218332500001
+Percent Violations = 0.0
+-----------results/C/1/hungarian_20-22.results-----------
+Extra Delivery Time = 0.33212634455128187
+DE Wait Time = 1.7019826409641223
+Number of Orders Delivered = 27092
+Orders per Km = 0.549001663165593
+Rejected Orders = 7
+Average Runtime = 174.7602634
+Percent Violations = 45.0
+-----------results/C/1/hungarian_22-24.results-----------
+Extra Delivery Time = 0.3473264091801717
+DE Wait Time = 1.7781617976814659
+Number of Orders Delivered = 14190
+Orders per Km = 0.5571961787393048
+Rejected Orders = 0
+Average Runtime = 46.2444389
+Percent Violations = 0.0
+-----------results/C/1/hungarian_6-8.results-----------
+Extra Delivery Time = 0.22803154064748468
+DE Wait Time = 3.306400624780176
+Number of Orders Delivered = 417
+Orders per Km = 0.3651274865383625
+Rejected Orders = 0
+Average Runtime = 0.14375675000000002
+Percent Violations = 0.0
+-----------results/C/2/hungarian_10-12.results-----------
+Extra Delivery Time = 0.3868727936700198
+DE Wait Time = 2.213574641729967
+Number of Orders Delivered = 4871
+Orders per Km = 0.4859533972449401
+Rejected Orders = 1
+Average Runtime = 5.150413475000001
+Percent Violations = 0.0
+-----------results/C/2/hungarian_12-14.results-----------
+Extra Delivery Time = 0.34646292380697147
+DE Wait Time = 1.8570959459003216
+Number of Orders Delivered = 13062
+Orders per Km = 0.5326059316438009
+Rejected Orders = 2
+Average Runtime = 38.48519715
+Percent Violations = 0.0
+-----------results/C/2/hungarian_14-16.results-----------
+Extra Delivery Time = 0.40003120527245983
+DE Wait Time = 1.8541570987395681
+Number of Orders Delivered = 13580
+Orders per Km = 0.5429916140913158
+Rejected Orders = 0
+Average Runtime = 37.876202775
+Percent Violations = 0.0
+-----------results/C/2/hungarian_16-18.results-----------
+Extra Delivery Time = 2.614093362475264
+DE Wait Time = 1.6614467058778555
+Number of Orders Delivered = 7412
+Orders per Km = 0.5416296305504363
+Rejected Orders = 2289
+Average Runtime = 9.9829893
+Percent Violations = 0.0
+-----------results/C/2/hungarian_18-20.results-----------
+Extra Delivery Time = 0.3412656422323319
+DE Wait Time = 1.882269045822262
+Number of Orders Delivered = 15056
+Orders per Km = 0.5530168248378949
+Rejected Orders = 1
+Average Runtime = 47.4872359
+Percent Violations = 0.0
+-----------results/C/2/hungarian_20-22.results-----------
+Extra Delivery Time = 0.30667343454545426
+DE Wait Time = 1.7090588088244822
+Number of Orders Delivered = 27775
+Orders per Km = 0.5520869334659996
+Rejected Orders = 2
+Average Runtime = 187.053130925
+Percent Violations = 72.5
+-----------results/C/2/hungarian_22-24.results-----------
+Extra Delivery Time = 0.32769068356812486
+DE Wait Time = 1.7636331704632435
+Number of Orders Delivered = 14197
+Orders per Km = 0.5763642732950438
+Rejected Orders = 0
+Average Runtime = 46.38827715
+Percent Violations = 0.0
+-----------results/C/2/hungarian_6-8.results-----------
+Extra Delivery Time = 0.33837840291557747
+DE Wait Time = 3.765613873150564
+Number of Orders Delivered = 383
+Orders per Km = 0.3297907525507145
+Rejected Orders = 0
+Average Runtime = 0.132689525
+Percent Violations = 0.0
+-----------results/C/3/hungarian_10-12.results-----------
+Extra Delivery Time = 0.49229305434538606
+DE Wait Time = 2.0133002537183433
+Number of Orders Delivered = 6831
+Orders per Km = 0.5263055165557108
+Rejected Orders = 0
+Average Runtime = 9.30593635
+Percent Violations = 0.0
+-----------results/C/3/hungarian_12-14.results-----------
+Extra Delivery Time = 0.39958445252142716
+DE Wait Time = 1.7832768154970577
+Number of Orders Delivered = 16373
+Orders per Km = 0.5555212130228344
+Rejected Orders = 2
+Average Runtime = 61.120523174999995
+Percent Violations = 0.0
+-----------results/C/3/hungarian_14-16.results-----------
+Extra Delivery Time = 0.41873206789224593
+DE Wait Time = 1.7513374994541784
+Number of Orders Delivered = 16550
+Orders per Km = 0.5553424764815273
+Rejected Orders = 0
+Average Runtime = 56.625581524999994
+Percent Violations = 0.0
+-----------results/C/3/hungarian_16-18.results-----------
+Extra Delivery Time = 0.4981134893547392
+DE Wait Time = 1.7690518615307618
+Number of Orders Delivered = 12987
+Orders per Km = 0.5636332041297958
+Rejected Orders = 3
+Average Runtime = 31.577657950000003
+Percent Violations = 0.0
+-----------results/C/3/hungarian_18-20.results-----------
+Extra Delivery Time = 0.40706761941816166
+DE Wait Time = 1.781692735404217
+Number of Orders Delivered = 16064
+Orders per Km = 0.5723188215523636
+Rejected Orders = 3
+Average Runtime = 53.0113669
+Percent Violations = 0.0
+-----------results/C/3/hungarian_20-22.results-----------
+Extra Delivery Time = 0.32466590705082987
+DE Wait Time = 1.6554164354973178
+Number of Orders Delivered = 32625
+Orders per Km = 0.5693069859078944
+Rejected Orders = 4
+Average Runtime = 253.02684525
+Percent Violations = 90.0
+-----------results/C/3/hungarian_22-24.results-----------
+Extra Delivery Time = 0.37131225598246037
+DE Wait Time = 1.6665170331232293
+Number of Orders Delivered = 18245
+Orders per Km = 0.5817977450517526
+Rejected Orders = 2
+Average Runtime = 72.99551715
+Percent Violations = 0.0
+-----------results/C/3/hungarian_6-8.results-----------
+Extra Delivery Time = 0.37330996584582177
+DE Wait Time = 3.3072814676659497
+Number of Orders Delivered = 467
+Orders per Km = 0.3918024821430973
+Rejected Orders = 0
+Average Runtime = 0.14716349999999997
+Percent Violations = 0.0
+-----------results/C/4/hungarian_10-12.results-----------
+Extra Delivery Time = 0.4114384728492549
+DE Wait Time = 2.113738198244092
+Number of Orders Delivered = 5192
+Orders per Km = 0.5118782626897246
+Rejected Orders = 1
+Average Runtime = 5.7788443
+Percent Violations = 0.0
+-----------results/C/4/hungarian_12-14.results-----------
+Extra Delivery Time = 0.3593808133867696
+DE Wait Time = 1.841160009738139
+Number of Orders Delivered = 13786
+Orders per Km = 0.5395012417699186
+Rejected Orders = 0
+Average Runtime = 42.86858445
+Percent Violations = 0.0
+-----------results/C/4/hungarian_14-16.results-----------
+Extra Delivery Time = 0.4276713373427617
+DE Wait Time = 1.8031875059155302
+Number of Orders Delivered = 13859
+Orders per Km = 0.5562818699207243
+Rejected Orders = 2
+Average Runtime = 42.296554
+Percent Violations = 0.0
+-----------results/C/4/hungarian_16-18.results-----------
+Extra Delivery Time = 0.4291195650402022
+DE Wait Time = 1.8617598366348398
+Number of Orders Delivered = 9950
+Orders per Km = 0.5544367275413465
+Rejected Orders = 1
+Average Runtime = 19.696015475000003
+Percent Violations = 0.0
+-----------results/C/4/hungarian_18-20.results-----------
+Extra Delivery Time = 0.35322282484259276
+DE Wait Time = 1.8072712878207104
+Number of Orders Delivered = 16253
+Orders per Km = 0.5301848211225493
+Rejected Orders = 2
+Average Runtime = 61.64953385
+Percent Violations = 0.0
+-----------results/C/4/hungarian_20-22.results-----------
+Extra Delivery Time = 0.34241002410561766
+DE Wait Time = 1.667841444160904
+Number of Orders Delivered = 31232
+Orders per Km = 0.5563551455664518
+Rejected Orders = 4
+Average Runtime = 241.14704052500002
+Percent Violations = 90.0
+-----------results/C/4/hungarian_22-24.results-----------
+Extra Delivery Time = 0.3398621372613712
+DE Wait Time = 1.7107155546434183
+Number of Orders Delivered = 16518
+Orders per Km = 0.5743985711536305
+Rejected Orders = 2
+Average Runtime = 62.905212375
+Percent Violations = 0.0
+-----------results/C/4/hungarian_6-8.results-----------
+Extra Delivery Time = 0.27577119009780005
+DE Wait Time = 3.4063369513854944
+Number of Orders Delivered = 409
+Orders per Km = 0.3769961969310134
+Rejected Orders = 0
+Average Runtime = 0.136338825
+Percent Violations = 0.0
+-----------results/C/5/hungarian_10-12.results-----------
+Extra Delivery Time = 0.5549669495325419
+DE Wait Time = 1.838663684703744
+Number of Orders Delivered = 8343
+Orders per Km = 0.5439291044616459
+Rejected Orders = 0
+Average Runtime = 12.94556925
+Percent Violations = 0.0
+-----------results/C/5/hungarian_12-14.results-----------
+Extra Delivery Time = 0.45486780619658107
+DE Wait Time = 1.7505403511309388
+Number of Orders Delivered = 17316
+Orders per Km = 0.554020927632815
+Rejected Orders = 1
+Average Runtime = 66.590991
+Percent Violations = 0.0
+-----------results/C/5/hungarian_14-16.results-----------
+Extra Delivery Time = 0.45036248809914525
+DE Wait Time = 1.7346292029125407
+Number of Orders Delivered = 18283
+Orders per Km = 0.558855794765386
+Rejected Orders = 1
+Average Runtime = 72.134124475
+Percent Violations = 0.0
+-----------results/C/5/hungarian_16-18.results-----------
+Extra Delivery Time = 0.5134033651254705
+DE Wait Time = 1.709051324684061
+Number of Orders Delivered = 14718
+Orders per Km = 0.5657992400794052
+Rejected Orders = 0
+Average Runtime = 40.981920575
+Percent Violations = 0.0
+-----------results/C/5/hungarian_18-20.results-----------
+Extra Delivery Time = 0.4306238940958439
+DE Wait Time = 1.7151737986688242
+Number of Orders Delivered = 19156
+Orders per Km = 0.5789127995786115
+Rejected Orders = 3
+Average Runtime = 75.325335425
+Percent Violations = 5.0
+-----------results/C/5/hungarian_20-22.results-----------
+Extra Delivery Time = 0.34411535433805374
+DE Wait Time = 1.6146464015710609
+Number of Orders Delivered = 34255
+Orders per Km = 0.5527296291427191
+Rejected Orders = 2
+Average Runtime = 283.667805125
+Percent Violations = 92.5
+-----------results/C/5/hungarian_22-24.results-----------
+Extra Delivery Time = 0.3502067133787762
+DE Wait Time = 1.7240449426068714
+Number of Orders Delivered = 16211
+Orders per Km = 0.5779265458913053
+Rejected Orders = 0
+Average Runtime = 62.039864
+Percent Violations = 0.0
+-----------results/C/5/hungarian_6-8.results-----------
+Extra Delivery Time = 0.43244696654733916
+DE Wait Time = 3.3966420385043765
+Number of Orders Delivered = 419
+Orders per Km = 0.3823758233085968
+Rejected Orders = 0
+Average Runtime = 0.13001697499999998
+Percent Violations = 0.0
+-----------results/C/6/hungarian_10-12.results-----------
+Extra Delivery Time = 0.4574600812365154
+DE Wait Time = 2.172729317458872
+Number of Orders Delivered = 4944
+Orders per Km = 0.5007424305149242
+Rejected Orders = 1
+Average Runtime = 4.819641474999999
+Percent Violations = 0.0
+-----------results/C/6/hungarian_12-14.results-----------
+Extra Delivery Time = 0.37277360465122716
+DE Wait Time = 1.8740114033668516
+Number of Orders Delivered = 12133
+Orders per Km = 0.510753379366585
+Rejected Orders = 4
+Average Runtime = 34.250556125
+Percent Violations = 0.0
+-----------results/C/6/hungarian_14-16.results-----------
+Extra Delivery Time = 0.4517612149588885
+DE Wait Time = 1.7969484613209739
+Number of Orders Delivered = 12892
+Orders per Km = 0.5215663419489346
+Rejected Orders = 0
+Average Runtime = 34.715393625000004
+Percent Violations = 0.0
+-----------results/C/6/hungarian_16-18.results-----------
+Extra Delivery Time = 0.47035672535286627
+DE Wait Time = 1.8180099000665189
+Number of Orders Delivered = 10273
+Orders per Km = 0.5373132292365288
+Rejected Orders = 1
+Average Runtime = 19.844394675
+Percent Violations = 0.0
+-----------results/C/6/hungarian_18-20.results-----------
+Extra Delivery Time = 0.4221096465889151
+DE Wait Time = 1.825735644189334
+Number of Orders Delivered = 13676
+Orders per Km = 0.5709444496650733
+Rejected Orders = 1
+Average Runtime = 36.71767680000001
+Percent Violations = 0.0
+-----------results/C/6/hungarian_20-22.results-----------
+Extra Delivery Time = 0.33698928368019926
+DE Wait Time = 1.7277127159537782
+Number of Orders Delivered = 24361
+Orders per Km = 0.5338338183626853
+Rejected Orders = 2
+Average Runtime = 134.42034982500002
+Percent Violations = 0.0
+-----------results/C/6/hungarian_22-24.results-----------
+Extra Delivery Time = 0.38110982227561874
+DE Wait Time = 1.7406987853315292
+Number of Orders Delivered = 14046
+Orders per Km = 0.5644907921890316
+Rejected Orders = 0
+Average Runtime = 44.15096155
+Percent Violations = 0.0
+-----------results/C/6/hungarian_6-8.results-----------
+Extra Delivery Time = 0.42672739623069833
+DE Wait Time = 3.4091220141235237
+Number of Orders Delivered = 367
+Orders per Km = 0.3384785865390793
+Rejected Orders = 0
+Average Runtime = 0.12089259999999999
+Percent Violations = 0.0

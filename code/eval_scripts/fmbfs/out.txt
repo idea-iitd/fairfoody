@@ -1,0 +1,1152 @@
+-----------results/A/1/fmbfs_0-2.results-----------
+Extra Delivery Time = 0.29214662215544884
+DE Wait Time = 1.768689450420673
+Number of Orders Delivered = 832
+Orders per Km = 0.589099990286733
+Rejected Orders = 0
+Average Runtime = 3.3401160000000005
+Percent Violations = 0.0
+-----------results/A/1/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.3681967281003936
+DE Wait Time = 1.1655602653133215
+Number of Orders Delivered = 4064
+Orders per Km = 0.559488847059858
+Rejected Orders = 0
+Average Runtime = 9.094548374999999
+Percent Violations = 0.0
+-----------results/A/1/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.4396950569298263
+DE Wait Time = 1.2526537499766077
+Number of Orders Delivered = 2850
+Orders per Km = 0.5749516570774081
+Rejected Orders = 0
+Average Runtime = 7.5489118999999985
+Percent Violations = 0.0
+-----------results/A/1/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.5027891046411481
+DE Wait Time = 1.324049551116427
+Number of Orders Delivered = 2090
+Orders per Km = 0.5517444662273383
+Rejected Orders = 1
+Average Runtime = 6.187602525
+Percent Violations = 0.0
+-----------results/A/1/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.3344606530709827
+DE Wait Time = 1.5233073755363498
+Number of Orders Delivered = 2719
+Orders per Km = 0.5518281211432473
+Rejected Orders = 1
+Average Runtime = 6.997813825
+Percent Violations = 0.0
+-----------results/A/1/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.36730848346027056
+DE Wait Time = 1.1531811143169686
+Number of Orders Delivered = 6171
+Orders per Km = 0.5969270702668722
+Rejected Orders = 0
+Average Runtime = 11.70402095
+Percent Violations = 0.0
+-----------results/A/1/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.37551784794805754
+DE Wait Time = 1.33134125073899
+Number of Orders Delivered = 2323
+Orders per Km = 0.6062593210435647
+Rejected Orders = 0
+Average Runtime = 6.481593000000001
+Percent Violations = 0.0
+-----------results/A/1/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.5957197967422108
+DE Wait Time = 1.8801777083569402
+Number of Orders Delivered = 353
+Orders per Km = 0.4511604403469517
+Rejected Orders = 0
+Average Runtime = 2.1766861499999997
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_0-2.results-----------
+Extra Delivery Time = 0.2540044463758387
+DE Wait Time = 1.8295866775391498
+Number of Orders Delivered = 745
+Orders per Km = 0.579414995754417
+Rejected Orders = 0
+Average Runtime = 3.07314325
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.4051266367355008
+DE Wait Time = 1.164340842036554
+Number of Orders Delivered = 4213
+Orders per Km = 0.5817936392071522
+Rejected Orders = 0
+Average Runtime = 9.3912163
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.42210597222010005
+DE Wait Time = 1.2782742534772638
+Number of Orders Delivered = 2617
+Orders per Km = 0.5692382691048624
+Rejected Orders = 0
+Average Runtime = 7.250000600000002
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_16-18.results-----------
+Extra Delivery Time = 2.9309681914477914
+DE Wait Time = 1.148137350288275
+Number of Orders Delivered = 1561
+Orders per Km = 0.5886523892421818
+Rejected Orders = 469
+Average Runtime = 4.6610357
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.34033805784313464
+DE Wait Time = 1.5550300209997565
+Number of Orders Delivered = 2754
+Orders per Km = 0.5813453892565268
+Rejected Orders = 0
+Average Runtime = 6.6255628
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.3554064557302521
+DE Wait Time = 1.1542604063211948
+Number of Orders Delivered = 6233
+Orders per Km = 0.6150131610728551
+Rejected Orders = 0
+Average Runtime = 11.555534175
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.3172533220147724
+DE Wait Time = 1.419808079790725
+Number of Orders Delivered = 2437
+Orders per Km = 0.595892011336174
+Rejected Orders = 0
+Average Runtime = 6.53016585
+Percent Violations = 0.0
+-----------results/A/2/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.511935291021514
+DE Wait Time = 1.8378621449462367
+Number of Orders Delivered = 310
+Orders per Km = 0.4673064754598064
+Rejected Orders = 0
+Average Runtime = 2.327450075
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_0-2.results-----------
+Extra Delivery Time = 0.26746883187422965
+DE Wait Time = 1.8061946196465268
+Number of Orders Delivered = 811
+Orders per Km = 0.6104588830561974
+Rejected Orders = 0
+Average Runtime = 2.95716975
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.4430380053229473
+DE Wait Time = 1.0877067738274915
+Number of Orders Delivered = 4108
+Orders per Km = 0.5605923603564965
+Rejected Orders = 0
+Average Runtime = 9.446023875
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.4210232031687396
+DE Wait Time = 1.2772777224857443
+Number of Orders Delivered = 2572
+Orders per Km = 0.5620202239210177
+Rejected Orders = 0
+Average Runtime = 7.1977689499999995
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.4780574029122291
+DE Wait Time = 1.3372460596160038
+Number of Orders Delivered = 2066
+Orders per Km = 0.5628757057373476
+Rejected Orders = 0
+Average Runtime = 6.2305855
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.30889171807091037
+DE Wait Time = 1.533543999745839
+Number of Orders Delivered = 2623
+Orders per Km = 0.556347026814794
+Rejected Orders = 1
+Average Runtime = 6.939409850000001
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.34219487527539727
+DE Wait Time = 1.2163424196800148
+Number of Orders Delivered = 5719
+Orders per Km = 0.5930417064662374
+Rejected Orders = 2
+Average Runtime = 11.652395125
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.3844532009409683
+DE Wait Time = 1.3174076551651763
+Number of Orders Delivered = 2462
+Orders per Km = 0.6022928392355721
+Rejected Orders = 0
+Average Runtime = 6.687551549999999
+Percent Violations = 0.0
+-----------results/A/3/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.5907929561430011
+DE Wait Time = 1.8932841501510616
+Number of Orders Delivered = 331
+Orders per Km = 0.48876213754172687
+Rejected Orders = 0
+Average Runtime = 2.22653805
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_0-2.results-----------
+Extra Delivery Time = 0.2187866976977566
+DE Wait Time = 1.9106210890791027
+Number of Orders Delivered = 847
+Orders per Km = 0.5926433557826458
+Rejected Orders = 0
+Average Runtime = 3.3243495000000003
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.35719407331053177
+DE Wait Time = 1.2101911259570202
+Number of Orders Delivered = 4824
+Orders per Km = 0.5751377040152081
+Rejected Orders = 0
+Average Runtime = 10.565110525
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.46037588355366993
+DE Wait Time = 1.2029704403682728
+Number of Orders Delivered = 3177
+Orders per Km = 0.5776622087214813
+Rejected Orders = 0
+Average Runtime = 8.185039475
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.4987101558795738
+DE Wait Time = 1.3188411678817331
+Number of Orders Delivered = 2469
+Orders per Km = 0.5854617478018991
+Rejected Orders = 0
+Average Runtime = 7.1046557
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.3484762644226845
+DE Wait Time = 1.3437288000612009
+Number of Orders Delivered = 3268
+Orders per Km = 0.5833882693119079
+Rejected Orders = 0
+Average Runtime = 8.3822889
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.31944808232186556
+DE Wait Time = 1.1794782164488509
+Number of Orders Delivered = 6657
+Orders per Km = 0.6070196427409283
+Rejected Orders = 1
+Average Runtime = 12.754614799999999
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.3515009749007223
+DE Wait Time = 1.3608994574106568
+Number of Orders Delivered = 2854
+Orders per Km = 0.5992449980503186
+Rejected Orders = 1
+Average Runtime = 7.640968674999999
+Percent Violations = 0.0
+-----------results/A/4/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.5280169723958319
+DE Wait Time = 1.7703057892795127
+Number of Orders Delivered = 384
+Orders per Km = 0.45359417398073876
+Rejected Orders = 0
+Average Runtime = 3.00715795
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_0-2.results-----------
+Extra Delivery Time = 0.2184827925662879
+DE Wait Time = 1.7200844672190656
+Number of Orders Delivered = 1056
+Orders per Km = 0.6050292379058865
+Rejected Orders = 0
+Average Runtime = 3.52608735
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.39146611310572027
+DE Wait Time = 1.0941178332494752
+Number of Orders Delivered = 5565
+Orders per Km = 0.5950060883254152
+Rejected Orders = 0
+Average Runtime = 11.781062425
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.4151981203281096
+DE Wait Time = 1.2405549412840264
+Number of Orders Delivered = 3637
+Orders per Km = 0.5749724091421212
+Rejected Orders = 0
+Average Runtime = 9.3006225
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.4813019973585352
+DE Wait Time = 1.2414103531988367
+Number of Orders Delivered = 2751
+Orders per Km = 0.5691117104649072
+Rejected Orders = 0
+Average Runtime = 7.382083650000001
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.3200693964205367
+DE Wait Time = 1.2780474426690478
+Number of Orders Delivered = 5038
+Orders per Km = 0.5765028119435218
+Rejected Orders = 1
+Average Runtime = 10.312332025
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.328691763367417
+DE Wait Time = 0.9993915278384449
+Number of Orders Delivered = 10073
+Orders per Km = 0.5912588977769698
+Rejected Orders = 0
+Average Runtime = 15.355658725000001
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.3359118441016257
+DE Wait Time = 1.2384363810262429
+Number of Orders Delivered = 2998
+Orders per Km = 0.5835475172735622
+Rejected Orders = 0
+Average Runtime = 8.648169675
+Percent Violations = 0.0
+-----------results/A/5/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.7207431869290575
+DE Wait Time = 1.4280745890670568
+Number of Orders Delivered = 686
+Orders per Km = 0.5059529567978269
+Rejected Orders = 0
+Average Runtime = 3.393918825
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_0-2.results-----------
+Extra Delivery Time = 0.20125026433021792
+DE Wait Time = 1.912886676056965
+Number of Orders Delivered = 749
+Orders per Km = 0.5417835767581145
+Rejected Orders = 0
+Average Runtime = 3.21157765
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.38388253031039704
+DE Wait Time = 1.1500557272266814
+Number of Orders Delivered = 4113
+Orders per Km = 0.5459345875847174
+Rejected Orders = 0
+Average Runtime = 9.027181275
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.4324128395785437
+DE Wait Time = 1.263718303729248
+Number of Orders Delivered = 2610
+Orders per Km = 0.5540035322716528
+Rejected Orders = 0
+Average Runtime = 7.037105199999999
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.47415344921199754
+DE Wait Time = 1.3640006646076945
+Number of Orders Delivered = 1967
+Orders per Km = 0.5467020526147189
+Rejected Orders = 0
+Average Runtime = 5.616965025000001
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.34473936722395104
+DE Wait Time = 1.4212644218182986
+Number of Orders Delivered = 2572
+Orders per Km = 0.5442922110075363
+Rejected Orders = 0
+Average Runtime = 6.830732950000001
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.3397390213521104
+DE Wait Time = 1.194776466103288
+Number of Orders Delivered = 5325
+Orders per Km = 0.5910697952010467
+Rejected Orders = 0
+Average Runtime = 10.9084125
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.41698533441163926
+DE Wait Time = 1.264765928057607
+Number of Orders Delivered = 2303
+Orders per Km = 0.601018740435822
+Rejected Orders = 0
+Average Runtime = 6.3149977
+Percent Violations = 0.0
+-----------results/A/6/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.751201611564625
+DE Wait Time = 1.7123498449546457
+Number of Orders Delivered = 294
+Orders per Km = 0.497251338831942
+Rejected Orders = 0
+Average Runtime = 2.103025625
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.17444041923392783
+DE Wait Time = 1.1382367967244107
+Number of Orders Delivered = 38965
+Orders per Km = 0.6330148605487195
+Rejected Orders = 13
+Average Runtime = 74.240629775
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.21946212023204345
+DE Wait Time = 1.1302760674863739
+Number of Orders Delivered = 30885
+Orders per Km = 0.6350653537048717
+Rejected Orders = 3
+Average Runtime = 65.7898411
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.25130858690254737
+DE Wait Time = 1.3129814973396638
+Number of Orders Delivered = 15587
+Orders per Km = 0.6210789444758936
+Rejected Orders = 3
+Average Runtime = 52.729309
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.18826638367537488
+DE Wait Time = 1.3882731384179512
+Number of Orders Delivered = 24266
+Orders per Km = 0.6269009937842511
+Rejected Orders = 8
+Average Runtime = 58.828834875
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.1629625372476869
+DE Wait Time = 1.19001647003855
+Number of Orders Delivered = 44703
+Orders per Km = 0.6370680267382451
+Rejected Orders = 9
+Average Runtime = 77.478952775
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.18848113718828868
+DE Wait Time = 1.395793790247218
+Number of Orders Delivered = 17043
+Orders per Km = 0.6377080577751378
+Rejected Orders = 0
+Average Runtime = 48.065186274999995
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_2-4.results-----------
+Extra Delivery Time = 0.24303526683487472
+DE Wait Time = 1.7624618991309222
+Number of Orders Delivered = 1189
+Orders per Km = 0.5457146417263798
+Rejected Orders = 0
+Average Runtime = 7.767675575
+Percent Violations = 0.0
+-----------results/B/1/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.2892690282549022
+DE Wait Time = 1.1379495323123239
+Number of Orders Delivered = 11900
+Orders per Km = 0.624831263987656
+Rejected Orders = 0
+Average Runtime = 41.42419445
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.15242343081585283
+DE Wait Time = 1.2775462875300343
+Number of Orders Delivered = 24694
+Orders per Km = 0.6299694765848688
+Rejected Orders = 4
+Average Runtime = 60.3367077
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.18682831649407322
+DE Wait Time = 1.4524246490416497
+Number of Orders Delivered = 14678
+Orders per Km = 0.6198814151108056
+Rejected Orders = 1
+Average Runtime = 50.618729325
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_16-18.results-----------
+Extra Delivery Time = 2.3988420427046186
+DE Wait Time = 1.3251980087727135
+Number of Orders Delivered = 7852
+Orders per Km = 0.6284119681759468
+Rejected Orders = 2203
+Average Runtime = 30.310531625
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.14437700987093646
+DE Wait Time = 1.5973483438363056
+Number of Orders Delivered = 18828
+Orders per Km = 0.6242761906341802
+Rejected Orders = 7
+Average Runtime = 51.956152075
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.13953386477490498
+DE Wait Time = 1.3327099661137034
+Number of Orders Delivered = 38791
+Orders per Km = 0.6352800861792334
+Rejected Orders = 13
+Average Runtime = 71.669178125
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.15608177574530802
+DE Wait Time = 1.4814624634804379
+Number of Orders Delivered = 16179
+Orders per Km = 0.6397213243641349
+Rejected Orders = 2
+Average Runtime = 47.065855775
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_2-4.results-----------
+Extra Delivery Time = 0.30628101763636334
+DE Wait Time = 2.099614795313131
+Number of Orders Delivered = 825
+Orders per Km = 0.5832011199399556
+Rejected Orders = 0
+Average Runtime = 7.071613425000001
+Percent Violations = 0.0
+-----------results/B/2/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.2571375767751343
+DE Wait Time = 1.3477513249020134
+Number of Orders Delivered = 7314
+Orders per Km = 0.598004367769238
+Rejected Orders = 1
+Average Runtime = 35.96995415
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.15464712307462775
+DE Wait Time = 1.2643291191325519
+Number of Orders Delivered = 27921
+Orders per Km = 0.6355669369416752
+Rejected Orders = 19
+Average Runtime = 66.1268603
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.1826706934085622
+DE Wait Time = 1.4718056357693676
+Number of Orders Delivered = 15907
+Orders per Km = 0.6258793479073141
+Rejected Orders = 4
+Average Runtime = 51.788147300000006
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.21512540347868087
+DE Wait Time = 1.5499688999596246
+Number of Orders Delivered = 10320
+Orders per Km = 0.6114045606591897
+Rejected Orders = 6
+Average Runtime = 44.7825316
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.16334684702012842
+DE Wait Time = 1.4769252837001483
+Number of Orders Delivered = 20219
+Orders per Km = 0.6093210637320123
+Rejected Orders = 11
+Average Runtime = 59.259647474999994
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.14705913073175594
+DE Wait Time = 1.227933516064643
+Number of Orders Delivered = 43243
+Orders per Km = 0.63427807855341
+Rejected Orders = 11
+Average Runtime = 79.063060075
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.1730170200683621
+DE Wait Time = 1.3350674228020445
+Number of Orders Delivered = 20284
+Orders per Km = 0.636572493763135
+Rejected Orders = 4
+Average Runtime = 54.938773225
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_2-4.results-----------
+Extra Delivery Time = 0.26323569139784947
+DE Wait Time = 2.122969080165131
+Number of Orders Delivered = 868
+Orders per Km = 0.5894647167605299
+Rejected Orders = 0
+Average Runtime = 7.314486324999999
+Percent Violations = 0.0
+-----------results/B/3/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.25428821801220897
+DE Wait Time = 1.4122902360007734
+Number of Orders Delivered = 7754
+Orders per Km = 0.5983733219398101
+Rejected Orders = 0
+Average Runtime = 35.9506848
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.15340196594571176
+DE Wait Time = 1.260284759496021
+Number of Orders Delivered = 33844
+Orders per Km = 0.6253064574727549
+Rejected Orders = 18
+Average Runtime = 71.706977975
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.20388252117416114
+DE Wait Time = 1.2777009970080055
+Number of Orders Delivered = 26064
+Orders per Km = 0.6343045479874012
+Rejected Orders = 7
+Average Runtime = 63.7575906
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.2367781532023674
+DE Wait Time = 1.4025032824852586
+Number of Orders Delivered = 15093
+Orders per Km = 0.6275680695090572
+Rejected Orders = 2
+Average Runtime = 52.388977675
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.1824359106489201
+DE Wait Time = 1.4341252568473526
+Number of Orders Delivered = 22802
+Orders per Km = 0.616380019611404
+Rejected Orders = 4
+Average Runtime = 62.16743369999999
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.16140146757534943
+DE Wait Time = 1.2482040272686108
+Number of Orders Delivered = 43066
+Orders per Km = 0.6302492354521478
+Rejected Orders = 6
+Average Runtime = 78.713190575
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.18649168373722208
+DE Wait Time = 1.4008401171751026
+Number of Orders Delivered = 18652
+Orders per Km = 0.6349080498004251
+Rejected Orders = 0
+Average Runtime = 53.27964690000001
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_2-4.results-----------
+Extra Delivery Time = 0.28799933449801957
+DE Wait Time = 1.9207262957139528
+Number of Orders Delivered = 1431
+Orders per Km = 0.5923774869252737
+Rejected Orders = 1
+Average Runtime = 8.8399761
+Percent Violations = 0.0
+-----------results/B/4/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.2463013340242407
+DE Wait Time = 1.3542166207506292
+Number of Orders Delivered = 11386
+Orders per Km = 0.6110521799038847
+Rejected Orders = 0
+Average Runtime = 43.149630725
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.18112177475914373
+DE Wait Time = 1.0606506305895183
+Number of Orders Delivered = 44494
+Orders per Km = 0.6469284787425635
+Rejected Orders = 12
+Average Runtime = 84.60657917500001
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.23541592564502675
+DE Wait Time = 1.1434867724456268
+Number of Orders Delivered = 30438
+Orders per Km = 0.648258538361914
+Rejected Orders = 1
+Average Runtime = 68.19413292499999
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.26185679570145143
+DE Wait Time = 1.3010425445746752
+Number of Orders Delivered = 17661
+Orders per Km = 0.6282205132012922
+Rejected Orders = 0
+Average Runtime = 57.47892637499999
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.19962741193253508
+DE Wait Time = 1.213083805523249
+Number of Orders Delivered = 29062
+Orders per Km = 0.6268028807899544
+Rejected Orders = 7
+Average Runtime = 69.798898525
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.16897782868295821
+DE Wait Time = 1.1913183199574293
+Number of Orders Delivered = 45258
+Orders per Km = 0.6293848662141369
+Rejected Orders = 7
+Average Runtime = 79.6156781
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.18079641825527176
+DE Wait Time = 1.3292392108011921
+Number of Orders Delivered = 17657
+Orders per Km = 0.6289049454097919
+Rejected Orders = 0
+Average Runtime = 53.828369775
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_2-4.results-----------
+Extra Delivery Time = 0.222301512189958
+DE Wait Time = 1.8901519910364994
+Number of Orders Delivered = 1653
+Orders per Km = 0.6303923615420266
+Rejected Orders = 0
+Average Runtime = 10.213007975
+Percent Violations = 0.0
+-----------results/B/5/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.25900526549405806
+DE Wait Time = 1.1454400581675153
+Number of Orders Delivered = 14725
+Orders per Km = 0.6240601559966392
+Rejected Orders = 2
+Average Runtime = 48.73678209999999
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.1644569686274513
+DE Wait Time = 1.1929529497713982
+Number of Orders Delivered = 25007
+Orders per Km = 0.6268900709174134
+Rejected Orders = 1
+Average Runtime = 60.784030425000005
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.208422441511502
+DE Wait Time = 1.3596591762413186
+Number of Orders Delivered = 15360
+Orders per Km = 0.6191711999915355
+Rejected Orders = 1
+Average Runtime = 51.423638200000006
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.2475985630988905
+DE Wait Time = 1.4492982674879047
+Number of Orders Delivered = 9782
+Orders per Km = 0.5932999335329733
+Rejected Orders = 3
+Average Runtime = 42.854412875
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.19444336996036662
+DE Wait Time = 1.3545491178795768
+Number of Orders Delivered = 18839
+Orders per Km = 0.6136432311160266
+Rejected Orders = 6
+Average Runtime = 57.704633025
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.15293984170148298
+DE Wait Time = 1.2516765560403669
+Number of Orders Delivered = 33988
+Orders per Km = 0.6131292756993033
+Rejected Orders = 8
+Average Runtime = 70.70231357499999
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.18552862472033743
+DE Wait Time = 1.3347125697222937
+Number of Orders Delivered = 15316
+Orders per Km = 0.6243964180761647
+Rejected Orders = 2
+Average Runtime = 50.167475875
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_2-4.results-----------
+Extra Delivery Time = 0.3337330936032869
+DE Wait Time = 2.011265694913928
+Number of Orders Delivered = 852
+Orders per Km = 0.5472843707014429
+Rejected Orders = 0
+Average Runtime = 6.952538525
+Percent Violations = 0.0
+-----------results/B/6/fmbfs_8-10.results-----------
+Extra Delivery Time = 0.2982080896546564
+DE Wait Time = 1.2952602314719837
+Number of Orders Delivered = 7799
+Orders per Km = 0.5967441538561598
+Rejected Orders = 0
+Average Runtime = 36.038659125
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_10-12.results-----------
+Extra Delivery Time = 0.3059809265217391
+DE Wait Time = 1.7124463196392228
+Number of Orders Delivered = 5405
+Orders per Km = 0.5480834009657848
+Rejected Orders = 1
+Average Runtime = 50.33432515
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.24917185452396848
+DE Wait Time = 1.5155700181008243
+Number of Orders Delivered = 13469
+Orders per Km = 0.5509464117394515
+Rejected Orders = 0
+Average Runtime = 79.47371842499999
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.2748765917466879
+DE Wait Time = 1.470209202006697
+Number of Orders Delivered = 13538
+Orders per Km = 0.5492068310377837
+Rejected Orders = 0
+Average Runtime = 82.121095575
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.3208352907041314
+DE Wait Time = 1.4866574327713662
+Number of Orders Delivered = 9965
+Orders per Km = 0.5797976585222797
+Rejected Orders = 0
+Average Runtime = 74.99031787499999
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.23834470573082503
+DE Wait Time = 1.5878787901278348
+Number of Orders Delivered = 13820
+Orders per Km = 0.5838100889362184
+Rejected Orders = 0
+Average Runtime = 82.40199145
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.21543311021785125
+DE Wait Time = 1.3907274264853495
+Number of Orders Delivered = 27098
+Orders per Km = 0.5762340687177722
+Rejected Orders = 7
+Average Runtime = 105.61790054999999
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.2314995688974794
+DE Wait Time = 1.5129565005284449
+Number of Orders Delivered = 14098
+Orders per Km = 0.5856154285895835
+Rejected Orders = 0
+Average Runtime = 83.674683725
+Percent Violations = 0.0
+-----------results/C/1/fmbfs_6-8.results-----------
+Extra Delivery Time = 0.12754592052506042
+DE Wait Time = 2.8086333377883848
+Number of Orders Delivered = 419
+Orders per Km = 0.3567791658794622
+Rejected Orders = 0
+Average Runtime = 10.452379950000001
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_10-12.results-----------
+Extra Delivery Time = 0.27917168426912614
+DE Wait Time = 1.7279137026366123
+Number of Orders Delivered = 4880
+Orders per Km = 0.5181368853016278
+Rejected Orders = 1
+Average Runtime = 46.1095275
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.22241647598906636
+DE Wait Time = 1.520334448661328
+Number of Orders Delivered = 13110
+Orders per Km = 0.5509929959826899
+Rejected Orders = 2
+Average Runtime = 73.200554375
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.26777501929313124
+DE Wait Time = 1.4696298428464218
+Number of Orders Delivered = 13548
+Orders per Km = 0.5632778104744498
+Rejected Orders = 0
+Average Runtime = 74.0008522
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_16-18.results-----------
+Extra Delivery Time = 2.6311432939266663
+DE Wait Time = 1.3469679437977773
+Number of Orders Delivered = 7500
+Orders per Km = 0.582631966296165
+Rejected Orders = 2201
+Average Runtime = 48.625576275
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.23466383209435693
+DE Wait Time = 1.592187102714947
+Number of Orders Delivered = 15120
+Orders per Km = 0.5865361260513753
+Rejected Orders = 1
+Average Runtime = 77.12125855
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.20391155042125744
+DE Wait Time = 1.44923289676256
+Number of Orders Delivered = 27774
+Orders per Km = 0.5773629255256961
+Rejected Orders = 2
+Average Runtime = 93.62141077499999
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.22009992084425656
+DE Wait Time = 1.5535193691876261
+Number of Orders Delivered = 14115
+Orders per Km = 0.6023855314019159
+Rejected Orders = 0
+Average Runtime = 77.3068658
+Percent Violations = 0.0
+-----------results/C/2/fmbfs_6-8.results-----------
+Extra Delivery Time = 0.2420573944730087
+DE Wait Time = 2.823596091730931
+Number of Orders Delivered = 389
+Orders per Km = 0.36220702241972313
+Rejected Orders = 0
+Average Runtime = 10.6573199
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_10-12.results-----------
+Extra Delivery Time = 0.3028028096663458
+DE Wait Time = 1.7054732003689455
+Number of Orders Delivered = 5195
+Orders per Km = 0.5456394438187063
+Rejected Orders = 1
+Average Runtime = 49.095967075
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.23043554790988247
+DE Wait Time = 1.5078251843343713
+Number of Orders Delivered = 13819
+Orders per Km = 0.5681189356899512
+Rejected Orders = 0
+Average Runtime = 78.4260632
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.28408743792310703
+DE Wait Time = 1.4719763761435314
+Number of Orders Delivered = 13846
+Orders per Km = 0.5728399070879905
+Rejected Orders = 2
+Average Runtime = 79.53592297499999
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.2944904715469247
+DE Wait Time = 1.5576413384299321
+Number of Orders Delivered = 9938
+Orders per Km = 0.5769828472007476
+Rejected Orders = 1
+Average Runtime = 68.019089325
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.23665610539059712
+DE Wait Time = 1.5201094673850044
+Number of Orders Delivered = 16334
+Orders per Km = 0.5697815848430441
+Rejected Orders = 2
+Average Runtime = 86.63867602500001
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.20471091634693298
+DE Wait Time = 1.3980085389091728
+Number of Orders Delivered = 31224
+Orders per Km = 0.5755789403986213
+Rejected Orders = 4
+Average Runtime = 105.09835967500001
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.22797706910623514
+DE Wait Time = 1.5381215501914778
+Number of Orders Delivered = 16451
+Orders per Km = 0.5995080965884819
+Rejected Orders = 2
+Average Runtime = 85.63501125
+Percent Violations = 0.0
+-----------results/C/3/fmbfs_6-8.results-----------
+Extra Delivery Time = 0.21936839142512327
+DE Wait Time = 3.358327637761674
+Number of Orders Delivered = 414
+Orders per Km = 0.3683926619764411
+Rejected Orders = 0
+Average Runtime = 10.910200849999999
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_10-12.results-----------
+Extra Delivery Time = 0.3370992367863931
+DE Wait Time = 1.5852201134204504
+Number of Orders Delivered = 6849
+Orders per Km = 0.5590713701223743
+Rejected Orders = 0
+Average Runtime = 51.8182639
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.26717668063315264
+DE Wait Time = 1.435101011022863
+Number of Orders Delivered = 16431
+Orders per Km = 0.5700288822167925
+Rejected Orders = 2
+Average Runtime = 66.25620707499999
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.27012451829661915
+DE Wait Time = 1.3996891251755026
+Number of Orders Delivered = 16524
+Orders per Km = 0.5781071139671772
+Rejected Orders = 0
+Average Runtime = 80.83083404999999
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.33587529321282517
+DE Wait Time = 1.387172128543899
+Number of Orders Delivered = 12973
+Orders per Km = 0.5869241467934173
+Rejected Orders = 3
+Average Runtime = 77.35569405
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.27343272987072076
+DE Wait Time = 1.52703830937222
+Number of Orders Delivered = 16115
+Orders per Km = 0.5978846089196136
+Rejected Orders = 3
+Average Runtime = 85.01300237500001
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.20137016812788422
+DE Wait Time = 1.4112080123866546
+Number of Orders Delivered = 32644
+Orders per Km = 0.5817265510082179
+Rejected Orders = 4
+Average Runtime = 105.09509077500002
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.2310540653164071
+DE Wait Time = 1.5178013397587715
+Number of Orders Delivered = 18157
+Orders per Km = 0.6087932482958811
+Rejected Orders = 2
+Average Runtime = 88.207417775
+Percent Violations = 0.0
+-----------results/C/4/fmbfs_6-8.results-----------
+Extra Delivery Time = 0.22943389216311733
+DE Wait Time = 2.762924462482267
+Number of Orders Delivered = 470
+Orders per Km = 0.3707670077595385
+Rejected Orders = 0
+Average Runtime = 11.893621225
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_10-12.results-----------
+Extra Delivery Time = 0.3906912542728395
+DE Wait Time = 1.425233256609642
+Number of Orders Delivered = 8359
+Orders per Km = 0.5671119024461408
+Rejected Orders = 0
+Average Runtime = 57.074147925
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.29315174519845527
+DE Wait Time = 1.389362059184476
+Number of Orders Delivered = 17359
+Orders per Km = 0.5777376439901336
+Rejected Orders = 1
+Average Runtime = 80.30154042500001
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.2932813400135023
+DE Wait Time = 1.3897671910480986
+Number of Orders Delivered = 18268
+Orders per Km = 0.589107506451408
+Rejected Orders = 1
+Average Runtime = 83.06109892500001
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.35361471536049865
+DE Wait Time = 1.38226278576231
+Number of Orders Delivered = 14725
+Orders per Km = 0.5908142602907238
+Rejected Orders = 0
+Average Runtime = 76.92016652499998
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.2681269581563239
+DE Wait Time = 1.4472921586118639
+Number of Orders Delivered = 19208
+Orders per Km = 0.601077850390694
+Rejected Orders = 3
+Average Runtime = 87.51464092500001
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.21052947508807257
+DE Wait Time = 1.3252234942373193
+Number of Orders Delivered = 34252
+Orders per Km = 0.5712501454405187
+Rejected Orders = 2
+Average Runtime = 102.214492075
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.22320314287443418
+DE Wait Time = 1.566602204101752
+Number of Orders Delivered = 16111
+Orders per Km = 0.602599733889183
+Rejected Orders = 0
+Average Runtime = 83.08210992500001
+Percent Violations = 0.0
+-----------results/C/5/fmbfs_6-8.results-----------
+Extra Delivery Time = 0.2941936266745475
+DE Wait Time = 2.574126392356186
+Number of Orders Delivered = 423
+Orders per Km = 0.3995992037657841
+Rejected Orders = 0
+Average Runtime = 11.915020649999999
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_10-12.results-----------
+Extra Delivery Time = 0.32557623116686835
+DE Wait Time = 1.6795450708518078
+Number of Orders Delivered = 4962
+Orders per Km = 0.5195945846610869
+Rejected Orders = 1
+Average Runtime = 41.923872900000006
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_12-14.results-----------
+Extra Delivery Time = 0.2488699114341723
+DE Wait Time = 1.5184087271481048
+Number of Orders Delivered = 12158
+Orders per Km = 0.5428796314925992
+Rejected Orders = 4
+Average Runtime = 64.785213675
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_14-16.results-----------
+Extra Delivery Time = 0.303234949959929
+DE Wait Time = 1.4228187004213841
+Number of Orders Delivered = 12894
+Orders per Km = 0.5557275234324341
+Rejected Orders = 0
+Average Runtime = 68.0988765
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_16-18.results-----------
+Extra Delivery Time = 0.33781756475833125
+DE Wait Time = 1.440237113943026
+Number of Orders Delivered = 10262
+Orders per Km = 0.5742131599842919
+Rejected Orders = 1
+Average Runtime = 62.278008475
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_18-20.results-----------
+Extra Delivery Time = 0.2740591959184428
+DE Wait Time = 1.4691614030104072
+Number of Orders Delivered = 13708
+Orders per Km = 0.5889218535456492
+Rejected Orders = 1
+Average Runtime = 72.34748587499999
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_20-22.results-----------
+Extra Delivery Time = 0.2125101875703667
+DE Wait Time = 1.3934646387741172
+Number of Orders Delivered = 24396
+Orders per Km = 0.5610505067517729
+Rejected Orders = 2
+Average Runtime = 72.318282025
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_22-24.results-----------
+Extra Delivery Time = 0.25324246429628594
+DE Wait Time = 1.483021928025637
+Number of Orders Delivered = 13964
+Orders per Km = 0.5851548371716785
+Rejected Orders = 0
+Average Runtime = 71.1287785
+Percent Violations = 0.0
+-----------results/C/6/fmbfs_6-8.results-----------
+Extra Delivery Time = 0.2851125287634415
+DE Wait Time = 2.809175800537634
+Number of Orders Delivered = 372
+Orders per Km = 0.3429322202514334
+Rejected Orders = 0
+Average Runtime = 10.166378425
+Percent Violations = 0.0

@@ -1,0 +1,1152 @@
+-----------results/A/1/greedy_0-2.results-----------
+Extra Delivery Time = 0.3298537334911243
+DE Wait Time = 2.6088663933136096
+Number of Orders Delivered = 845
+Orders per Km = 0.5721594359447028
+Rejected Orders = 0
+Average Runtime = 0.17319372500000002
+Percent Violations = 0.0
+-----------results/A/1/greedy_12-14.results-----------
+Extra Delivery Time = 0.5912968118923789
+DE Wait Time = 1.892033848290688
+Number of Orders Delivered = 4807
+Orders per Km = 0.4787070901987066
+Rejected Orders = 0
+Average Runtime = 6.054100925
+Percent Violations = 0.0
+-----------results/A/1/greedy_14-16.results-----------
+Extra Delivery Time = 0.6720476167188979
+DE Wait Time = 1.900168213778335
+Number of Orders Delivered = 3191
+Orders per Km = 0.4900556254663703
+Rejected Orders = 0
+Average Runtime = 2.65207985
+Percent Violations = 0.0
+-----------results/A/1/greedy_16-18.results-----------
+Extra Delivery Time = 0.7220891614262557
+DE Wait Time = 1.8632797615208017
+Number of Orders Delivered = 2468
+Orders per Km = 0.4738321914670448
+Rejected Orders = 0
+Average Runtime = 1.39106855
+Percent Violations = 0.0
+-----------results/A/1/greedy_18-20.results-----------
+Extra Delivery Time = 0.48563802263666167
+DE Wait Time = 1.918452467298601
+Number of Orders Delivered = 3244
+Orders per Km = 0.4658446384487038
+Rejected Orders = 0
+Average Runtime = 3.0886485
+Percent Violations = 0.0
+-----------results/A/1/greedy_20-22.results-----------
+Extra Delivery Time = 0.5305846364347466
+DE Wait Time = 1.7515589396111368
+Number of Orders Delivered = 6669
+Orders per Km = 0.5186217719518914
+Rejected Orders = 1
+Average Runtime = 11.70045725
+Percent Violations = 0.0
+-----------results/A/1/greedy_22-24.results-----------
+Extra Delivery Time = 0.5445894509178582
+DE Wait Time = 1.8524904590856277
+Number of Orders Delivered = 2869
+Orders per Km = 0.5195008075043333
+Rejected Orders = 1
+Average Runtime = 2.539644025
+Percent Violations = 0.0
+-----------results/A/1/greedy_8-10.results-----------
+Extra Delivery Time = 0.6267523984649135
+DE Wait Time = 2.2301318073684175
+Number of Orders Delivered = 380
+Orders per Km = 0.38784006717429415
+Rejected Orders = 0
+Average Runtime = 0.040902775
+Percent Violations = 0.0
+-----------results/A/2/greedy_0-2.results-----------
+Extra Delivery Time = 0.4259768759694719
+DE Wait Time = 2.6514143037334983
+Number of Orders Delivered = 808
+Orders per Km = 0.5460322530164814
+Rejected Orders = 0
+Average Runtime = 0.1347395
+Percent Violations = 0.0
+-----------results/A/2/greedy_12-14.results-----------
+Extra Delivery Time = 0.6866118201534338
+DE Wait Time = 1.922748415818315
+Number of Orders Delivered = 4106
+Orders per Km = 0.49270845563999455
+Rejected Orders = 0
+Average Runtime = 4.048970925
+Percent Violations = 0.0
+-----------results/A/2/greedy_14-16.results-----------
+Extra Delivery Time = 0.5996738041989679
+DE Wait Time = 1.9326881451033602
+Number of Orders Delivered = 2580
+Orders per Km = 0.47878507259867675
+Rejected Orders = 0
+Average Runtime = 1.504789875
+Percent Violations = 0.0
+-----------results/A/2/greedy_16-18.results-----------
+Extra Delivery Time = 0.671697477460469
+DE Wait Time = 1.949889580195225
+Number of Orders Delivered = 2066
+Orders per Km = 0.48658661878891524
+Rejected Orders = 0
+Average Runtime = 0.83733065
+Percent Violations = 0.0
+-----------results/A/2/greedy_18-20.results-----------
+Extra Delivery Time = 0.45865910699233753
+DE Wait Time = 2.064044658282248
+Number of Orders Delivered = 2610
+Orders per Km = 0.4787346262819884
+Rejected Orders = 1
+Average Runtime = 1.9945551000000001
+Percent Violations = 0.0
+-----------results/A/2/greedy_20-22.results-----------
+Extra Delivery Time = 0.5228964319139033
+DE Wait Time = 1.8214813773821992
+Number of Orders Delivered = 5730
+Orders per Km = 0.5119567101776463
+Rejected Orders = 2
+Average Runtime = 8.0373267
+Percent Violations = 0.0
+-----------results/A/2/greedy_22-24.results-----------
+Extra Delivery Time = 0.5432109773881881
+DE Wait Time = 1.8622327200108086
+Number of Orders Delivered = 2467
+Orders per Km = 0.5271563586634378
+Rejected Orders = 0
+Average Runtime = 1.763375225
+Percent Violations = 0.0
+-----------results/A/2/greedy_8-10.results-----------
+Extra Delivery Time = 0.7412641279128699
+DE Wait Time = 2.2630811682370813
+Number of Orders Delivered = 329
+Orders per Km = 0.40448618465129965
+Rejected Orders = 0
+Average Runtime = 0.029737825000000002
+Percent Violations = 0.0
+-----------results/A/3/greedy_0-2.results-----------
+Extra Delivery Time = 0.46752194356654575
+DE Wait Time = 2.6853848873743464
+Number of Orders Delivered = 829
+Orders per Km = 0.5405405882880233
+Rejected Orders = 0
+Average Runtime = 0.162856325
+Percent Violations = 0.0
+-----------results/A/3/greedy_12-14.results-----------
+Extra Delivery Time = 0.6031584930959424
+DE Wait Time = 1.849782509302614
+Number of Orders Delivered = 4058
+Orders per Km = 0.4873580129581982
+Rejected Orders = 0
+Average Runtime = 4.346723249999999
+Percent Violations = 0.0
+-----------results/A/3/greedy_14-16.results-----------
+Extra Delivery Time = 0.6058632639598641
+DE Wait Time = 1.9462820843017148
+Number of Orders Delivered = 2857
+Orders per Km = 0.4727482342218267
+Rejected Orders = 0
+Average Runtime = 2.128801275
+Percent Violations = 0.0
+-----------results/A/3/greedy_16-18.results-----------
+Extra Delivery Time = 0.7196520420137238
+DE Wait Time = 1.9996886199776593
+Number of Orders Delivered = 2089
+Orders per Km = 0.4707623034283821
+Rejected Orders = 1
+Average Runtime = 0.90811165
+Percent Violations = 0.0
+-----------results/A/3/greedy_18-20.results-----------
+Extra Delivery Time = 0.5089864075461241
+DE Wait Time = 2.0235640492250897
+Number of Orders Delivered = 2710
+Orders per Km = 0.4659965136425471
+Rejected Orders = 1
+Average Runtime = 2.2075158999999998
+Percent Violations = 0.0
+-----------results/A/3/greedy_20-22.results-----------
+Extra Delivery Time = 0.5681357729132904
+DE Wait Time = 1.747377077202785
+Number of Orders Delivered = 6174
+Orders per Km = 0.5130716132415897
+Rejected Orders = 0
+Average Runtime = 9.975012000000001
+Percent Violations = 0.0
+-----------results/A/3/greedy_22-24.results-----------
+Extra Delivery Time = 0.5551379374356802
+DE Wait Time = 1.852352625907659
+Number of Orders Delivered = 2332
+Orders per Km = 0.5234126234088036
+Rejected Orders = 0
+Average Runtime = 1.5699588500000001
+Percent Violations = 0.0
+-----------results/A/3/greedy_8-10.results-----------
+Extra Delivery Time = 0.7858647631502844
+DE Wait Time = 2.2484171134393067
+Number of Orders Delivered = 346
+Orders per Km = 0.41820098593549576
+Rejected Orders = 0
+Average Runtime = 0.035446
+Percent Violations = 0.0
+-----------results/A/4/greedy_0-2.results-----------
+Extra Delivery Time = 0.31583328810798755
+DE Wait Time = 2.8484188612003574
+Number of Orders Delivered = 747
+Orders per Km = 0.533321939423346
+Rejected Orders = 0
+Average Runtime = 0.146299075
+Percent Violations = 0.0
+-----------results/A/4/greedy_12-14.results-----------
+Extra Delivery Time = 0.6079511894186326
+DE Wait Time = 1.8680530322387097
+Number of Orders Delivered = 4111
+Orders per Km = 0.46140083219033834
+Rejected Orders = 0
+Average Runtime = 4.2179416750000005
+Percent Violations = 0.0
+-----------results/A/4/greedy_14-16.results-----------
+Extra Delivery Time = 0.6025868646923979
+DE Wait Time = 1.9592827885046502
+Number of Orders Delivered = 2617
+Orders per Km = 0.4497135389973415
+Rejected Orders = 0
+Average Runtime = 1.7009243249999997
+Percent Violations = 0.0
+-----------results/A/4/greedy_16-18.results-----------
+Extra Delivery Time = 0.6769609307692306
+DE Wait Time = 1.9906535143912385
+Number of Orders Delivered = 1963
+Orders per Km = 0.45898570280667794
+Rejected Orders = 0
+Average Runtime = 0.8994377499999999
+Percent Violations = 0.0
+-----------results/A/4/greedy_18-20.results-----------
+Extra Delivery Time = 0.5266783636316479
+DE Wait Time = 1.9664295699740604
+Number of Orders Delivered = 2570
+Orders per Km = 0.45357382906989663
+Rejected Orders = 0
+Average Runtime = 1.7803770499999998
+Percent Violations = 0.0
+-----------results/A/4/greedy_20-22.results-----------
+Extra Delivery Time = 0.5409373900582062
+DE Wait Time = 1.8312031405495075
+Number of Orders Delivered = 5326
+Orders per Km = 0.5203535122604339
+Rejected Orders = 0
+Average Runtime = 7.303946375000001
+Percent Violations = 0.0
+-----------results/A/4/greedy_22-24.results-----------
+Extra Delivery Time = 0.5950593868364272
+DE Wait Time = 1.8346260099841774
+Number of Orders Delivered = 2317
+Orders per Km = 0.5209002197816869
+Rejected Orders = 0
+Average Runtime = 1.6443350250000002
+Percent Violations = 0.0
+-----------results/A/4/greedy_8-10.results-----------
+Extra Delivery Time = 0.8616210001718215
+DE Wait Time = 2.410381574570446
+Number of Orders Delivered = 291
+Orders per Km = 0.3878678746217981
+Rejected Orders = 0
+Average Runtime = 0.041361800000000004
+Percent Violations = 0.0
+-----------results/A/5/greedy_0-2.results-----------
+Extra Delivery Time = 0.392964400884676
+DE Wait Time = 2.5375511914060036
+Number of Orders Delivered = 1055
+Orders per Km = 0.5727297721490949
+Rejected Orders = 0
+Average Runtime = 0.29759835
+Percent Violations = 0.0
+-----------results/A/5/greedy_12-14.results-----------
+Extra Delivery Time = 0.6809580365624249
+DE Wait Time = 1.7982600102773791
+Number of Orders Delivered = 5564
+Orders per Km = 0.5019806906584166
+Rejected Orders = 0
+Average Runtime = 7.616032124999999
+Percent Violations = 0.0
+-----------results/A/5/greedy_14-16.results-----------
+Extra Delivery Time = 0.6615778295650191
+DE Wait Time = 1.8470861257921252
+Number of Orders Delivered = 3640
+Orders per Km = 0.48506761646158103
+Rejected Orders = 0
+Average Runtime = 3.238236175
+Percent Violations = 0.0
+-----------results/A/5/greedy_16-18.results-----------
+Extra Delivery Time = 0.6579896982554635
+DE Wait Time = 1.834655042357839
+Number of Orders Delivered = 2761
+Orders per Km = 0.4737871316468707
+Rejected Orders = 0
+Average Runtime = 1.701617975
+Percent Violations = 0.0
+-----------results/A/5/greedy_18-20.results-----------
+Extra Delivery Time = 0.5264435631396814
+DE Wait Time = 1.7982161969887513
+Number of Orders Delivered = 5009
+Orders per Km = 0.49613476502125475
+Rejected Orders = 1
+Average Runtime = 7.0930154499999984
+Percent Violations = 0.0
+-----------results/A/5/greedy_20-22.results-----------
+Extra Delivery Time = 0.5544276876135271
+DE Wait Time = 1.623130578854981
+Number of Orders Delivered = 10093
+Orders per Km = 0.5142751191232547
+Rejected Orders = 0
+Average Runtime = 27.267174600000004
+Percent Violations = 0.0
+-----------results/A/5/greedy_22-24.results-----------
+Extra Delivery Time = 0.49054474912076856
+DE Wait Time = 1.8281774697246194
+Number of Orders Delivered = 3014
+Orders per Km = 0.4962784866197959
+Rejected Orders = 0
+Average Runtime = 3.18187785
+Percent Violations = 0.0
+-----------results/A/5/greedy_8-10.results-----------
+Extra Delivery Time = 0.9293202949413467
+DE Wait Time = 2.014497788636364
+Number of Orders Delivered = 682
+Orders per Km = 0.4141181866478935
+Rejected Orders = 0
+Average Runtime = 0.19360349999999998
+Percent Violations = 0.0
+-----------results/A/6/greedy_0-2.results-----------
+Extra Delivery Time = 0.4030587903131992
+DE Wait Time = 2.692986219306488
+Number of Orders Delivered = 745
+Orders per Km = 0.5348779057260628
+Rejected Orders = 0
+Average Runtime = 0.12994887500000002
+Percent Violations = 0.0
+-----------results/A/6/greedy_12-14.results-----------
+Extra Delivery Time = 0.6179561984823196
+DE Wait Time = 1.8722606962614239
+Number of Orders Delivered = 4195
+Orders per Km = 0.4853291176327694
+Rejected Orders = 0
+Average Runtime = 4.3580502
+Percent Violations = 0.0
+-----------results/A/6/greedy_14-16.results-----------
+Extra Delivery Time = 0.5927050211925565
+DE Wait Time = 1.9072804220597541
+Number of Orders Delivered = 2633
+Orders per Km = 0.4786790020076179
+Rejected Orders = 0
+Average Runtime = 1.566526725
+Percent Violations = 0.0
+-----------results/A/6/greedy_16-18.results-----------
+Extra Delivery Time = 3.9139308783908078
+DE Wait Time = 1.5019917190700094
+Number of Orders Delivered = 1595
+Orders per Km = 0.5903958253170853
+Rejected Orders = 430
+Average Runtime = 1.2817787500000002
+Percent Violations = 0.0
+-----------results/A/6/greedy_18-20.results-----------
+Extra Delivery Time = 0.4764959848667393
+DE Wait Time = 2.091796094480954
+Number of Orders Delivered = 2739
+Orders per Km = 0.4866770044326972
+Rejected Orders = 0
+Average Runtime = 1.9226854249999998
+Percent Violations = 0.0
+-----------results/A/6/greedy_20-22.results-----------
+Extra Delivery Time = 0.5413129535844033
+DE Wait Time = 1.7909225212072652
+Number of Orders Delivered = 6240
+Orders per Km = 0.5388353399463575
+Rejected Orders = 0
+Average Runtime = 9.43317695
+Percent Violations = 0.0
+-----------results/A/6/greedy_22-24.results-----------
+Extra Delivery Time = 0.4925594596355245
+DE Wait Time = 1.931330774765401
+Number of Orders Delivered = 2451
+Orders per Km = 0.5142721003034214
+Rejected Orders = 0
+Average Runtime = 1.76400945
+Percent Violations = 0.0
+-----------results/A/6/greedy_8-10.results-----------
+Extra Delivery Time = 0.6849975936021482
+DE Wait Time = 2.4308095684946247
+Number of Orders Delivered = 310
+Orders per Km = 0.4413175731601597
+Rejected Orders = 0
+Average Runtime = 0.03193305
+Percent Violations = 0.0
+-----------results/B/1/greedy_12-14.results-----------
+Extra Delivery Time = 0.29207100087558213
+DE Wait Time = 1.7406619477917953
+Number of Orders Delivered = 33768
+Orders per Km = 0.556804307131649
+Rejected Orders = 18
+Average Runtime = 397.65760854999996
+Percent Violations = 87.5
+-----------results/B/1/greedy_14-16.results-----------
+Extra Delivery Time = 0.3452120302695702
+DE Wait Time = 1.6963199038068988
+Number of Orders Delivered = 26128
+Orders per Km = 0.5703848157131559
+Rejected Orders = 7
+Average Runtime = 242.07525767500002
+Percent Violations = 55.00000000000001
+-----------results/B/1/greedy_16-18.results-----------
+Extra Delivery Time = 0.3827142904572656
+DE Wait Time = 1.8592276663321625
+Number of Orders Delivered = 15097
+Orders per Km = 0.5400263630747453
+Rejected Orders = 2
+Average Runtime = 73.958133025
+Percent Violations = 0.0
+-----------results/B/1/greedy_18-20.results-----------
+Extra Delivery Time = 0.3245846620972716
+DE Wait Time = 1.820559483241637
+Number of Orders Delivered = 22720
+Orders per Km = 0.5442873966225414
+Rejected Orders = 4
+Average Runtime = 192.889943875
+Percent Violations = 42.5
+-----------results/B/1/greedy_20-22.results-----------
+Extra Delivery Time = 0.3079000099797222
+DE Wait Time = 1.760546016284334
+Number of Orders Delivered = 43069
+Orders per Km = 0.5628842707296488
+Rejected Orders = 6
+Average Runtime = 650.660451275
+Percent Violations = 97.5
+-----------results/B/1/greedy_22-24.results-----------
+Extra Delivery Time = 0.3282969576001421
+DE Wait Time = 1.7930099588737896
+Number of Orders Delivered = 18765
+Orders per Km = 0.5580487381729334
+Rejected Orders = 0
+Average Runtime = 134.5927476
+Percent Violations = 32.5
+-----------results/B/1/greedy_2-4.results-----------
+Extra Delivery Time = 0.3743355097701148
+DE Wait Time = 2.543511705862068
+Number of Orders Delivered = 1450
+Orders per Km = 0.5280936409987871
+Rejected Orders = 1
+Average Runtime = 0.6819768500000001
+Percent Violations = 0.0
+-----------results/B/1/greedy_8-10.results-----------
+Extra Delivery Time = 0.412680597900158
+DE Wait Time = 1.7962573412264486
+Number of Orders Delivered = 11358
+Orders per Km = 0.5264096866907886
+Rejected Orders = 0
+Average Runtime = 34.38996755000001
+Percent Violations = 0.0
+-----------results/B/2/greedy_12-14.results-----------
+Extra Delivery Time = 0.29326447249964166
+DE Wait Time = 1.7499932440361818
+Number of Orders Delivered = 27896
+Orders per Km = 0.5664918348428406
+Rejected Orders = 19
+Average Runtime = 268.880834425
+Percent Violations = 85.0
+-----------results/B/2/greedy_14-16.results-----------
+Extra Delivery Time = 0.2892193143794126
+DE Wait Time = 1.8851198834565743
+Number of Orders Delivered = 15958
+Orders per Km = 0.540194934709493
+Rejected Orders = 4
+Average Runtime = 90.28904592500001
+Percent Violations = 0.0
+-----------results/B/2/greedy_16-18.results-----------
+Extra Delivery Time = 0.3291321678754044
+DE Wait Time = 1.93276964619903
+Number of Orders Delivered = 10300
+Orders per Km = 0.5269775544047868
+Rejected Orders = 5
+Average Runtime = 38.891315399999996
+Percent Violations = 0.0
+-----------results/B/2/greedy_18-20.results-----------
+Extra Delivery Time = 0.2873586051183909
+DE Wait Time = 1.8782555294154195
+Number of Orders Delivered = 20117
+Orders per Km = 0.5404807133162175
+Rejected Orders = 11
+Average Runtime = 153.71928625
+Percent Violations = 30.0
+-----------results/B/2/greedy_20-22.results-----------
+Extra Delivery Time = 0.2914360836837279
+DE Wait Time = 1.7562324303374433
+Number of Orders Delivered = 43237
+Orders per Km = 0.5617273997565466
+Rejected Orders = 12
+Average Runtime = 642.892146775
+Percent Violations = 97.5
+-----------results/B/2/greedy_22-24.results-----------
+Extra Delivery Time = 0.30919329218048625
+DE Wait Time = 1.7468480195544993
+Number of Orders Delivered = 20419
+Orders per Km = 0.5627811761532301
+Rejected Orders = 4
+Average Runtime = 151.807023725
+Percent Violations = 35.0
+-----------results/B/2/greedy_2-4.results-----------
+Extra Delivery Time = 0.325952099597238
+DE Wait Time = 2.90195059468738
+Number of Orders Delivered = 869
+Orders per Km = 0.5359929038540895
+Rejected Orders = 0
+Average Runtime = 0.253016725
+Percent Violations = 0.0
+-----------results/B/2/greedy_8-10.results-----------
+Extra Delivery Time = 0.4049890256459937
+DE Wait Time = 1.9108965713393633
+Number of Orders Delivered = 7740
+Orders per Km = 0.5192364326492249
+Rejected Orders = 0
+Average Runtime = 15.905331375
+Percent Violations = 0.0
+-----------results/B/3/greedy_12-14.results-----------
+Extra Delivery Time = 0.3400134666100254
+DE Wait Time = 1.6699738794431143
+Number of Orders Delivered = 38841
+Orders per Km = 0.5660403679441537
+Rejected Orders = 14
+Average Runtime = 470.2230283999999
+Percent Violations = 92.5
+-----------results/B/3/greedy_14-16.results-----------
+Extra Delivery Time = 0.38440923563146107
+DE Wait Time = 1.628212104633365
+Number of Orders Delivered = 30989
+Orders per Km = 0.561182745082053
+Rejected Orders = 3
+Average Runtime = 308.11520095
+Percent Violations = 72.5
+-----------results/B/3/greedy_16-18.results-----------
+Extra Delivery Time = 0.41203812139391144
+DE Wait Time = 1.795948774586379
+Number of Orders Delivered = 15594
+Orders per Km = 0.5345161664382478
+Rejected Orders = 3
+Average Runtime = 69.086312375
+Percent Violations = 0.0
+-----------results/B/3/greedy_18-20.results-----------
+Extra Delivery Time = 0.3364940149859361
+DE Wait Time = 1.804619299065188
+Number of Orders Delivered = 24176
+Orders per Km = 0.5602679099604507
+Rejected Orders = 8
+Average Runtime = 199.55578917500003
+Percent Violations = 45.0
+-----------results/B/3/greedy_20-22.results-----------
+Extra Delivery Time = 0.31756136838483
+DE Wait Time = 1.7196955914550172
+Number of Orders Delivered = 44728
+Orders per Km = 0.5711944379277475
+Rejected Orders = 9
+Average Runtime = 650.271065825
+Percent Violations = 97.5
+-----------results/B/3/greedy_22-24.results-----------
+Extra Delivery Time = 0.3143454268708474
+DE Wait Time = 1.782245064658857
+Number of Orders Delivered = 17158
+Orders per Km = 0.5686315902857759
+Rejected Orders = 0
+Average Runtime = 114.43889492500003
+Percent Violations = 22.5
+-----------results/B/3/greedy_2-4.results-----------
+Extra Delivery Time = 0.3854822948675034
+DE Wait Time = 2.5071695862064156
+Number of Orders Delivered = 1195
+Orders per Km = 0.495429245501019
+Rejected Orders = 0
+Average Runtime = 0.45288777499999994
+Percent Violations = 0.0
+-----------results/B/3/greedy_8-10.results-----------
+Extra Delivery Time = 0.4892280019293511
+DE Wait Time = 1.6628886871751594
+Number of Orders Delivered = 11852
+Orders per Km = 0.5413906786492384
+Rejected Orders = 0
+Average Runtime = 35.77756945
+Percent Violations = 0.0
+-----------results/B/4/greedy_12-14.results-----------
+Extra Delivery Time = 0.3395779262831811
+DE Wait Time = 1.723064743558056
+Number of Orders Delivered = 24964
+Orders per Km = 0.5653416296778898
+Rejected Orders = 1
+Average Runtime = 197.362898425
+Percent Violations = 72.5
+-----------results/B/4/greedy_14-16.results-----------
+Extra Delivery Time = 0.3411725152498806
+DE Wait Time = 1.8877603672778727
+Number of Orders Delivered = 15434
+Orders per Km = 0.5475139883359766
+Rejected Orders = 1
+Average Runtime = 75.565526825
+Percent Violations = 0.0
+-----------results/B/4/greedy_16-18.results-----------
+Extra Delivery Time = 0.370369173175269
+DE Wait Time = 2.011195617458691
+Number of Orders Delivered = 9764
+Orders per Km = 0.5037529304419862
+Rejected Orders = 3
+Average Runtime = 28.567535275
+Percent Violations = 0.0
+-----------results/B/4/greedy_18-20.results-----------
+Extra Delivery Time = 0.34484497966656075
+DE Wait Time = 1.8622961377857163
+Number of Orders Delivered = 18754
+Orders per Km = 0.5374145779654587
+Rejected Orders = 6
+Average Runtime = 116.079655175
+Percent Violations = 25.0
+-----------results/B/4/greedy_20-22.results-----------
+Extra Delivery Time = 0.3005288603886988
+DE Wait Time = 1.7918750549855742
+Number of Orders Delivered = 33968
+Orders per Km = 0.5484167737037337
+Rejected Orders = 8
+Average Runtime = 383.125172875
+Percent Violations = 97.5
+-----------results/B/4/greedy_22-24.results-----------
+Extra Delivery Time = 0.3235700308847986
+DE Wait Time = 1.8500669889788952
+Number of Orders Delivered = 15431
+Orders per Km = 0.541022773277043
+Rejected Orders = 2
+Average Runtime = 78.936336575
+Percent Violations = 10.0
+-----------results/B/4/greedy_2-4.results-----------
+Extra Delivery Time = 0.4265681556844555
+DE Wait Time = 2.9238198069605565
+Number of Orders Delivered = 862
+Orders per Km = 0.5089404793606036
+Rejected Orders = 0
+Average Runtime = 0.23962529999999999
+Percent Violations = 0.0
+-----------results/B/4/greedy_8-10.results-----------
+Extra Delivery Time = 0.4776672081298202
+DE Wait Time = 1.8172226089438734
+Number of Orders Delivered = 7780
+Orders per Km = 0.5111050789436484
+Rejected Orders = 0
+Average Runtime = 13.905514275000002
+Percent Violations = 0.0
+-----------results/B/5/greedy_12-14.results-----------
+Extra Delivery Time = 0.3803993190239255
+DE Wait Time = 1.593450370661473
+Number of Orders Delivered = 44416
+Orders per Km = 0.5778343490879999
+Rejected Orders = 12
+Average Runtime = 622.931822375
+Percent Violations = 95.0
+-----------results/B/5/greedy_14-16.results-----------
+Extra Delivery Time = 0.4163828000016379
+DE Wait Time = 1.6462313537209299
+Number of Orders Delivered = 30530
+Orders per Km = 0.5675668293956597
+Rejected Orders = 1
+Average Runtime = 307.30909935
+Percent Violations = 75.0
+-----------results/B/5/greedy_16-18.results-----------
+Extra Delivery Time = 0.43862467786455445
+DE Wait Time = 1.725045204231277
+Number of Orders Delivered = 17670
+Orders per Km = 0.5556693717764262
+Rejected Orders = 0
+Average Runtime = 99.64856465
+Percent Violations = 0.0
+-----------results/B/5/greedy_18-20.results-----------
+Extra Delivery Time = 0.3781207348298943
+DE Wait Time = 1.7056583181263605
+Number of Orders Delivered = 28933
+Orders per Km = 0.5619322725766436
+Rejected Orders = 7
+Average Runtime = 288.257513175
+Percent Violations = 47.5
+-----------results/B/5/greedy_20-22.results-----------
+Extra Delivery Time = 0.3147930811114053
+DE Wait Time = 1.7100341749222212
+Number of Orders Delivered = 45321
+Orders per Km = 0.5593911202240759
+Rejected Orders = 7
+Average Runtime = 671.261245325
+Percent Violations = 100.0
+-----------results/B/5/greedy_22-24.results-----------
+Extra Delivery Time = 0.315143785898084
+DE Wait Time = 1.7395942272388842
+Number of Orders Delivered = 17773
+Orders per Km = 0.5527038572981853
+Rejected Orders = 0
+Average Runtime = 117.95305390000001
+Percent Violations = 30.0
+-----------results/B/5/greedy_2-4.results-----------
+Extra Delivery Time = 0.3721745249200641
+DE Wait Time = 2.4600848233713033
+Number of Orders Delivered = 1668
+Orders per Km = 0.571986714414268
+Rejected Orders = 0
+Average Runtime = 0.9418697250000001
+Percent Violations = 0.0
+-----------results/B/5/greedy_8-10.results-----------
+Extra Delivery Time = 0.4630862755714609
+DE Wait Time = 1.62933669637696
+Number of Orders Delivered = 14670
+Orders per Km = 0.5509466856107624
+Rejected Orders = 2
+Average Runtime = 54.571337875
+Percent Violations = 0.0
+-----------results/B/6/greedy_12-14.results-----------
+Extra Delivery Time = 0.28929841604572526
+DE Wait Time = 1.780649685778545
+Number of Orders Delivered = 24640
+Orders per Km = 0.557416426847466
+Rejected Orders = 4
+Average Runtime = 193.700149625
+Percent Violations = 75.0
+-----------results/B/6/greedy_14-16.results-----------
+Extra Delivery Time = 0.30061310002832586
+DE Wait Time = 1.8628004303161116
+Number of Orders Delivered = 14710
+Orders per Km = 0.5414843398462075
+Rejected Orders = 1
+Average Runtime = 74.24118905
+Percent Violations = 0.0
+-----------results/B/6/greedy_16-18.results-----------
+Extra Delivery Time = 3.025363575147806
+DE Wait Time = 1.6143466520588738
+Number of Orders Delivered = 8006
+Orders per Km = 0.6011883712508943
+Rejected Orders = 2057
+Average Runtime = 29.075614099999996
+Percent Violations = 2.5
+-----------results/B/6/greedy_18-20.results-----------
+Extra Delivery Time = 0.22975568002226907
+DE Wait Time = 1.995996693699448
+Number of Orders Delivered = 18710
+Orders per Km = 0.5502621010353697
+Rejected Orders = 7
+Average Runtime = 115.567876175
+Percent Violations = 22.5
+-----------results/B/6/greedy_20-22.results-----------
+Extra Delivery Time = 0.26533416591768993
+DE Wait Time = 1.7936511158902364
+Number of Orders Delivered = 38853
+Orders per Km = 0.5724364107087246
+Rejected Orders = 13
+Average Runtime = 494.15814119999993
+Percent Violations = 97.5
+-----------results/B/6/greedy_22-24.results-----------
+Extra Delivery Time = 0.2692512494883614
+DE Wait Time = 1.8506233068102125
+Number of Orders Delivered = 16255
+Orders per Km = 0.5629170787765035
+Rejected Orders = 2
+Average Runtime = 97.63617215
+Percent Violations = 20.0
+-----------results/B/6/greedy_2-4.results-----------
+Extra Delivery Time = 0.40556882056822713
+DE Wait Time = 3.0030321366746686
+Number of Orders Delivered = 833
+Orders per Km = 0.5248233338157647
+Rejected Orders = 0
+Average Runtime = 0.22990465000000002
+Percent Violations = 0.0
+-----------results/B/6/greedy_8-10.results-----------
+Extra Delivery Time = 0.422250592656336
+DE Wait Time = 1.877190528531268
+Number of Orders Delivered = 7292
+Orders per Km = 0.5065596971630594
+Rejected Orders = 1
+Average Runtime = 12.692849325000001
+Percent Violations = 0.0
+-----------results/C/1/greedy_10-12.results-----------
+Extra Delivery Time = 0.44830262752131944
+DE Wait Time = 2.481757313799283
+Number of Orders Delivered = 5394
+Orders per Km = 0.4484618217537374
+Rejected Orders = 1
+Average Runtime = 8.62345765
+Percent Violations = 0.0
+-----------results/C/1/greedy_12-14.results-----------
+Extra Delivery Time = 0.35452343608076325
+DE Wait Time = 2.295474758280689
+Number of Orders Delivered = 13455
+Orders per Km = 0.4610987699800059
+Rejected Orders = 0
+Average Runtime = 61.776495999999995
+Percent Violations = 0.0
+-----------results/C/1/greedy_14-16.results-----------
+Extra Delivery Time = 0.40402317751900757
+DE Wait Time = 2.248536308566472
+Number of Orders Delivered = 13547
+Orders per Km = 0.44241877296287735
+Rejected Orders = 0
+Average Runtime = 61.0969368
+Percent Violations = 0.0
+-----------results/C/1/greedy_16-18.results-----------
+Extra Delivery Time = 0.4711049633296518
+DE Wait Time = 2.2139665331509177
+Number of Orders Delivered = 9959
+Orders per Km = 0.49039609355020386
+Rejected Orders = 0
+Average Runtime = 31.240842750000002
+Percent Violations = 0.0
+-----------results/C/1/greedy_18-20.results-----------
+Extra Delivery Time = 0.36700303719718974
+DE Wait Time = 2.2462776329505796
+Number of Orders Delivered = 13760
+Orders per Km = 0.49601764686249455
+Rejected Orders = 0
+Average Runtime = 66.987140875
+Percent Violations = 0.0
+-----------results/C/1/greedy_20-22.results-----------
+Extra Delivery Time = 0.3373172334699052
+DE Wait Time = 2.0966049552223285
+Number of Orders Delivered = 27092
+Orders per Km = 0.4726357368775868
+Rejected Orders = 7
+Average Runtime = 266.87507832500006
+Percent Violations = 90.0
+-----------results/C/1/greedy_22-24.results-----------
+Extra Delivery Time = 0.3533817011005384
+DE Wait Time = 2.1337484311780597
+Number of Orders Delivered = 14190
+Orders per Km = 0.49593622111595653
+Rejected Orders = 0
+Average Runtime = 79.07078447500001
+Percent Violations = 7.5
+-----------results/C/1/greedy_6-8.results-----------
+Extra Delivery Time = 0.2443988774580368
+DE Wait Time = 3.625486045443644
+Number of Orders Delivered = 417
+Orders per Km = 0.34084823851461976
+Rejected Orders = 0
+Average Runtime = 0.157390325
+Percent Violations = 0.0
+-----------results/C/2/greedy_10-12.results-----------
+Extra Delivery Time = 0.38961773899267804
+DE Wait Time = 2.6319804815917327
+Number of Orders Delivered = 4871
+Orders per Km = 0.425034541311442
+Rejected Orders = 1
+Average Runtime = 7.932175175
+Percent Violations = 0.0
+-----------results/C/2/greedy_12-14.results-----------
+Extra Delivery Time = 0.3526653057073954
+DE Wait Time = 2.2770032407632828
+Number of Orders Delivered = 13062
+Orders per Km = 0.462493639155984
+Rejected Orders = 2
+Average Runtime = 57.43174972500001
+Percent Violations = 0.0
+-----------results/C/2/greedy_14-16.results-----------
+Extra Delivery Time = 0.40518274792587167
+DE Wait Time = 2.2135842521330393
+Number of Orders Delivered = 13580
+Orders per Km = 0.47635848846926837
+Rejected Orders = 0
+Average Runtime = 59.721182799999994
+Percent Violations = 0.0
+-----------results/C/2/greedy_16-18.results-----------
+Extra Delivery Time = 3.38951816744363
+DE Wait Time = 1.745581894302255
+Number of Orders Delivered = 7658
+Orders per Km = 0.5778494378032448
+Rejected Orders = 2043
+Average Runtime = 30.255904925
+Percent Violations = 2.5
+-----------results/C/2/greedy_18-20.results-----------
+Extra Delivery Time = 0.35295387520811117
+DE Wait Time = 2.248231343815312
+Number of Orders Delivered = 15056
+Orders per Km = 0.48795281480818703
+Rejected Orders = 1
+Average Runtime = 76.06320495
+Percent Violations = 5.0
+-----------results/C/2/greedy_20-22.results-----------
+Extra Delivery Time = 0.32000234740173983
+DE Wait Time = 2.1068066789096904
+Number of Orders Delivered = 27775
+Orders per Km = 0.4801695108283895
+Rejected Orders = 2
+Average Runtime = 276.68460845
+Percent Violations = 92.5
+-----------results/C/2/greedy_22-24.results-----------
+Extra Delivery Time = 0.33877150880702583
+DE Wait Time = 2.1281487475159064
+Number of Orders Delivered = 14197
+Orders per Km = 0.5239992819410468
+Rejected Orders = 0
+Average Runtime = 76.596469025
+Percent Violations = 0.0
+-----------results/C/2/greedy_6-8.results-----------
+Extra Delivery Time = 0.3469921001740632
+DE Wait Time = 4.457030979460399
+Number of Orders Delivered = 383
+Orders per Km = 0.31116158478294714
+Rejected Orders = 0
+Average Runtime = 0.14650539999999998
+Percent Violations = 0.0
+-----------results/C/3/greedy_10-12.results-----------
+Extra Delivery Time = 0.4870265622358855
+DE Wait Time = 2.366166600500171
+Number of Orders Delivered = 6831
+Orders per Km = 0.46479077592476875
+Rejected Orders = 0
+Average Runtime = 14.021716725
+Percent Violations = 0.0
+-----------results/C/3/greedy_12-14.results-----------
+Extra Delivery Time = 0.41564758527453693
+DE Wait Time = 2.1617336698151424
+Number of Orders Delivered = 16373
+Orders per Km = 0.4856657774764012
+Rejected Orders = 2
+Average Runtime = 93.65993945
+Percent Violations = 0.0
+-----------results/C/3/greedy_14-16.results-----------
+Extra Delivery Time = 0.42407891900604283
+DE Wait Time = 2.1244793737492453
+Number of Orders Delivered = 16550
+Orders per Km = 0.48267003009780046
+Rejected Orders = 0
+Average Runtime = 89.203716825
+Percent Violations = 0.0
+-----------results/C/3/greedy_16-18.results-----------
+Extra Delivery Time = 0.505690155411822
+DE Wait Time = 2.1078110025846364
+Number of Orders Delivered = 12987
+Orders per Km = 0.4980408998151123
+Rejected Orders = 3
+Average Runtime = 52.865754474999996
+Percent Violations = 0.0
+-----------results/C/3/greedy_18-20.results-----------
+Extra Delivery Time = 0.4159576215232827
+DE Wait Time = 2.131201329695801
+Number of Orders Delivered = 16064
+Orders per Km = 0.514771992708212
+Rejected Orders = 3
+Average Runtime = 89.72802742500001
+Percent Violations = 7.5
+-----------results/C/3/greedy_20-22.results-----------
+Extra Delivery Time = 0.34016651992643654
+DE Wait Time = 1.9961728930896554
+Number of Orders Delivered = 32625
+Orders per Km = 0.5018348123707363
+Rejected Orders = 4
+Average Runtime = 409.24496117499996
+Percent Violations = 97.5
+-----------results/C/3/greedy_22-24.results-----------
+Extra Delivery Time = 0.3779114437115188
+DE Wait Time = 2.0347199953009945
+Number of Orders Delivered = 18245
+Orders per Km = 0.5202623098009123
+Rejected Orders = 2
+Average Runtime = 132.65105745
+Percent Violations = 32.5
+-----------results/C/3/greedy_6-8.results-----------
+Extra Delivery Time = 0.4001454121698761
+DE Wait Time = 3.868028688865096
+Number of Orders Delivered = 467
+Orders per Km = 0.3512206823883109
+Rejected Orders = 0
+Average Runtime = 0.189790125
+Percent Violations = 0.0
+-----------results/C/4/greedy_10-12.results-----------
+Extra Delivery Time = 0.40901748381484265
+DE Wait Time = 2.6077293797155874
+Number of Orders Delivered = 5192
+Orders per Km = 0.4546208313787289
+Rejected Orders = 1
+Average Runtime = 8.011899199999998
+Percent Violations = 0.0
+-----------results/C/4/greedy_12-14.results-----------
+Extra Delivery Time = 0.3728265256540456
+DE Wait Time = 2.2390944902558148
+Number of Orders Delivered = 13786
+Orders per Km = 0.4816030116490284
+Rejected Orders = 0
+Average Runtime = 64.303509325
+Percent Violations = 0.0
+-----------results/C/4/greedy_14-16.results-----------
+Extra Delivery Time = 0.4438402791086418
+DE Wait Time = 2.1605195392079763
+Number of Orders Delivered = 13859
+Orders per Km = 0.49605224638974516
+Rejected Orders = 2
+Average Runtime = 63.60615419999999
+Percent Violations = 0.0
+-----------results/C/4/greedy_16-18.results-----------
+Extra Delivery Time = 0.4341836963132342
+DE Wait Time = 2.3541543041122286
+Number of Orders Delivered = 9950
+Orders per Km = 0.4845282103287056
+Rejected Orders = 1
+Average Runtime = 30.149251449999998
+Percent Violations = 0.0
+-----------results/C/4/greedy_18-20.results-----------
+Extra Delivery Time = 0.3585793676623799
+DE Wait Time = 2.176044614595253
+Number of Orders Delivered = 16253
+Orders per Km = 0.45651918885742393
+Rejected Orders = 2
+Average Runtime = 98.42970355
+Percent Violations = 20.0
+-----------results/C/4/greedy_20-22.results-----------
+Extra Delivery Time = 0.3534559018576029
+DE Wait Time = 2.0367765231279886
+Number of Orders Delivered = 31232
+Orders per Km = 0.4831393473663181
+Rejected Orders = 4
+Average Runtime = 355.51101915
+Percent Violations = 95.0
+-----------results/C/4/greedy_22-24.results-----------
+Extra Delivery Time = 0.3447849606550427
+DE Wait Time = 2.1040311825775917
+Number of Orders Delivered = 16518
+Orders per Km = 0.5116892407434558
+Rejected Orders = 2
+Average Runtime = 108.24265635000002
+Percent Violations = 20.0
+-----------results/C/4/greedy_6-8.results-----------
+Extra Delivery Time = 0.2801817621434392
+DE Wait Time = 4.19429402779136
+Number of Orders Delivered = 409
+Orders per Km = 0.3182942980182138
+Rejected Orders = 0
+Average Runtime = 0.166143075
+Percent Violations = 0.0
+-----------results/C/5/greedy_10-12.results-----------
+Extra Delivery Time = 0.5770182500519395
+DE Wait Time = 2.1753319136501665
+Number of Orders Delivered = 8343
+Orders per Km = 0.47380918174498204
+Rejected Orders = 0
+Average Runtime = 19.94639145
+Percent Violations = 0.0
+-----------results/C/5/greedy_12-14.results-----------
+Extra Delivery Time = 0.4730592152902903
+DE Wait Time = 2.1196296869706246
+Number of Orders Delivered = 17316
+Orders per Km = 0.48231183705839337
+Rejected Orders = 1
+Average Runtime = 100.02558417499999
+Percent Violations = 0.0
+-----------results/C/5/greedy_14-16.results-----------
+Extra Delivery Time = 0.46059906162828895
+DE Wait Time = 2.130458307331036
+Number of Orders Delivered = 18283
+Orders per Km = 0.482774676884791
+Rejected Orders = 1
+Average Runtime = 109.18465602500001
+Percent Violations = 0.0
+-----------results/C/5/greedy_16-18.results-----------
+Extra Delivery Time = 0.5351577282998145
+DE Wait Time = 1.9861027276203735
+Number of Orders Delivered = 14718
+Orders per Km = 0.5102225830855333
+Rejected Orders = 0
+Average Runtime = 68.77519095
+Percent Violations = 0.0
+-----------results/C/5/greedy_18-20.results-----------
+Extra Delivery Time = 0.4427587873259891
+DE Wait Time = 2.0546089493587734
+Number of Orders Delivered = 19156
+Orders per Km = 0.5157272088378856
+Rejected Orders = 3
+Average Runtime = 123.3422713
+Percent Violations = 20.0
+-----------results/C/5/greedy_20-22.results-----------
+Extra Delivery Time = 0.3623181613355722
+DE Wait Time = 1.924738790876757
+Number of Orders Delivered = 34255
+Orders per Km = 0.49419156537333986
+Rejected Orders = 2
+Average Runtime = 408.06536415
+Percent Violations = 97.5
+-----------results/C/5/greedy_22-24.results-----------
+Extra Delivery Time = 0.35953833655953815
+DE Wait Time = 2.1150400057029164
+Number of Orders Delivered = 16211
+Orders per Km = 0.5109196254666378
+Rejected Orders = 0
+Average Runtime = 105.94092799999999
+Percent Violations = 15.0
+-----------results/C/5/greedy_6-8.results-----------
+Extra Delivery Time = 0.44955715819411685
+DE Wait Time = 4.0610428769291955
+Number of Orders Delivered = 419
+Orders per Km = 0.34207304567413704
+Rejected Orders = 0
+Average Runtime = 0.15634545000000002
+Percent Violations = 0.0
+-----------results/C/6/greedy_10-12.results-----------
+Extra Delivery Time = 0.4674891130393741
+DE Wait Time = 2.5176264387405602
+Number of Orders Delivered = 4944
+Orders per Km = 0.43994958410641205
+Rejected Orders = 1
+Average Runtime = 6.821456725
+Percent Violations = 0.0
+-----------results/C/6/greedy_12-14.results-----------
+Extra Delivery Time = 0.384337112225611
+DE Wait Time = 2.3089850747149647
+Number of Orders Delivered = 12133
+Orders per Km = 0.4520764042250348
+Rejected Orders = 4
+Average Runtime = 46.161899700000006
+Percent Violations = 0.0
+-----------results/C/6/greedy_14-16.results-----------
+Extra Delivery Time = 0.4595417458953864
+DE Wait Time = 2.212517747742786
+Number of Orders Delivered = 12892
+Orders per Km = 0.45349958838906346
+Rejected Orders = 0
+Average Runtime = 49.989171324999994
+Percent Violations = 0.0
+-----------results/C/6/greedy_16-18.results-----------
+Extra Delivery Time = 0.48253212143807384
+DE Wait Time = 2.1738228884989788
+Number of Orders Delivered = 10273
+Orders per Km = 0.4855999187219871
+Rejected Orders = 1
+Average Runtime = 30.249321525000006
+Percent Violations = 0.0
+-----------results/C/6/greedy_18-20.results-----------
+Extra Delivery Time = 0.4307956357414448
+DE Wait Time = 2.146740829546895
+Number of Orders Delivered = 13676
+Orders per Km = 0.5074769800752484
+Rejected Orders = 1
+Average Runtime = 58.2174043
+Percent Violations = 0.0
+-----------results/C/6/greedy_20-22.results-----------
+Extra Delivery Time = 0.35015545537265896
+DE Wait Time = 2.0922664157163773
+Number of Orders Delivered = 24361
+Orders per Km = 0.4788747655329339
+Rejected Orders = 2
+Average Runtime = 208.81189707500002
+Percent Violations = 90.0
+-----------results/C/6/greedy_22-24.results-----------
+Extra Delivery Time = 0.38749049049195594
+DE Wait Time = 2.1197346781812145
+Number of Orders Delivered = 14046
+Orders per Km = 0.5085700911532066
+Rejected Orders = 0
+Average Runtime = 69.562593975
+Percent Violations = 0.0
+-----------results/C/6/greedy_6-8.results-----------
+Extra Delivery Time = 0.38779882724795517
+DE Wait Time = 4.079881071571301
+Number of Orders Delivered = 367
+Orders per Km = 0.3064114002599704
+Rejected Orders = 0
+Average Runtime = 0.140373525
+Percent Violations = 0.0

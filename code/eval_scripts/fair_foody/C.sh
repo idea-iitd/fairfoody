@@ -1,0 +1,12 @@
+./main.o -algo FAIR_FOODY -city C -day 1 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/1/FAIR_FOODY_0_24.results &
+./main.o -algo FAIR_FOODY -city C -day 2 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/2/FAIR_FOODY_0_24.results &
+./main.o -algo FAIR_FOODY -city C -day 3 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/3/FAIR_FOODY_0_24.results &
+./main.o -algo FAIR_FOODY -city C -day 4 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/4/FAIR_FOODY_0_24.results &
+./main.o -algo FAIR_FOODY -city C -day 5 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/5/FAIR_FOODY_0_24.results &
+./main.o -algo FAIR_FOODY -city C -day 6 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/6/FAIR_FOODY_0_24.results &
+./main.o -algo FM_FULL -city C -day 1 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/1/FM_FULL_0_24.results &
+./main.o -algo FM_FULL -city C -day 2 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/2/FM_FULL_0_24.results &
+./main.o -algo FM_FULL -city C -day 3 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/3/FM_FULL_0_24.results &
+./main.o -algo FM_FULL -city C -day 4 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/4/FM_FULL_0_24.results &
+./main.o -algo FM_FULL -city C -day 5 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/5/FM_FULL_0_24.results &
+./main.o -algo FM_FULL -city C -day 6 -eta 60 -k 200 -gamma 0.5 -delta 180 -start 0 -end 24 > results/C/6/FM_FULL_0_24.results &
