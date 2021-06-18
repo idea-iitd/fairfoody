@@ -81,9 +81,7 @@
     It produces a log of simulation on stdout. This is piped to a file for evaluation.
 - `include/` - contains code for the simulation framework and algorithms.
 - `include/constants.cpp` - contains the default parameters used.
-- `include/vehicle_assignment.cpp` - contains the code for FoodMatch algorithm.
-- `include/vehicle_assignment_baseline.cpp` - contains the code for Greedy and Hungarian algorithm.
-- `include/mdrp_baseline.cpp` - contains the code for default algorithm proposed by Reyes et. al. \[1,2\].
+- `include/vehicle_assignment.cpp` - contains the code for FairFoody,FoodMatch and 2SF algorithms.
 - `evaluation_scripts/evaluation_script.py` - reads the simulation log and reports metrics defined in our paper.
 
 ## References
