@@ -23,7 +23,6 @@ conda activate ff_evn
 We use two datasets for evaluation of algorithms:
 -The code for simulation and algorithms defined in our paper is provided in [./code]. An anonymized version of the proprietary dataset is avilable at "https://drive.google.com/drive/folders/1dMpbYklf4zU4IGlR2OG5AA3nmf45_nJy?usp=sharing".
 
-## References
 
 ## References
 
