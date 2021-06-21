@@ -1,0 +1,2 @@
+Gini,SLA Violation,DTPO,Payment Gap, Avg. Runtime Per Window, % of overflow window, 25 percentile,50 percentile,75 percentile,95 percentile
+0.5132938638586015,0.008800492827598346,15.272716071114177,58.84247924335298,2.764272675,0.0,3.0,7.0,16.0,44.5

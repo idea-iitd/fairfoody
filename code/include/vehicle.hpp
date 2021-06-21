@@ -72,6 +72,10 @@ public:
     double idle_time;
     //------ code for fairness
 
+    double wait_time_AR;
+	double travel_time_AR; 
+    double active_time_AR;
+
     vehicle();
 
     vehicle(string v_id, long long int m_load, vector<active_interval> de_int);

@@ -28,6 +28,13 @@ vehicle::vehicle(string v_id, long long int m_load, vector<active_interval> de_i
     this->de_intervals = de_int;
     this->e_d = (this->de_intervals)[0].start_time;
     this->ONLINE = false;
+
+    cout<<"INITIALIZED_VEHICLE_TIMES_AR"<<endl;
+    wait_time_AR = 0.0;
+    travel_time_AR = 0.0;
+    active_time_AR = 0.0;
+
+    
 }
 
 void vehicle::reroute(double currtime) {

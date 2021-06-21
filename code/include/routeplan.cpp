@@ -104,6 +104,21 @@ double get_route_plan_extra_delivery_time(unordered_map<string, double> &deliver
     return extra_delivery_time;
 }
 
+// Only implemented for 1 order - route_plan is of size 2
+pair<double,double> get_pay_times_AR(unordered_map<string, double> &delivered_time, vector<event> &route_plan){
+	double travel_time = 0;
+	double wait_time = 0;
+	for (int i = 0; i < int(route_plan.size()); i++){
+		if (route_plan[i].type == 1){
+			order event_order = route_plan[i].order_obj;
+			//TODO: first mile time added in wait time
+			wait_time += delivered_time[event_order.order_id] - event_order.order_time - event_order.shortest_delivery_time;
+			travel_time += event_order.shortest_delivery_time;
+		}
+	}
+	return make_pair(wait_time, travel_time);
+}
+
 pair<pair<vector<event>, double>, unordered_map<string, double>> get_best_route_plan(vehicle &vh,
                                                             order &new_order, double curr_time){
     double min_cost = MAX_NUM;

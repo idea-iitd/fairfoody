@@ -377,6 +377,162 @@ vector<vector<best_plan_tuple>> generate_start_order_undirected_graph_as(vector<
     return order_graph;
 }
 
+vector<vector<best_plan_tuple>> generate_start_order_undirected_graph_sp_as(vector<order> order_set, double global_time){
+	cout << "OG ST" << endl;
+    int curr_time_slot = ((((long long int)(global_time))%86400 + 86400)%86400)/3600;
+	int n = order_set.size();
+	vector<vector<best_plan_tuple>> order_graph(n, vector<best_plan_tuple>(n, {{{}, MAX_NUM}, {}}));
+
+	for(int i = 0; i < n; i++){
+		order order_i = order_set[i];
+		
+		event event_i_p(order_i, 0);
+		event event_i_d(order_i, 1);
+
+		vector<event> temp_e({event_i_p, event_i_d});
+		best_plan_tuple temp = get_routeplan_cost(temp_e, global_time);
+		order_graph[i][i] = temp;
+	}
+
+	vector<vector<int>> node_to_order(nodes_to_latlon.size());
+	for (int i = 0; i < n; i++){
+		node_to_order[order_graph[i][i].first.first[0].node].push_back(i);
+	}
+
+	//int max_count_edges = max(1, n/vehicle_explore_frac);
+	// n vehicles, n orders
+	int max_count_edges = max(1, vehicle_explore_frac);
+	//int max_count_edges = max(1, n/vehicle_explore_frac);
+	// double max_time_dist = vehicle_explore_rad;
+	double max_time_dist = slotted_max_time[curr_time_slot];
+
+	vector<bool> visited(nodes_to_latlon.size(), false);
+	vector<double> dist_vh(nodes_to_latlon.size(), MAX_NUM);
+	vector<double> dist_ac(nodes_to_latlon.size(), MAX_NUM);
+
+	for (int i = 0; i < n; i++){
+		
+		order order_i = order_set[i];
+		
+		event event_i_p(order_i, 0);
+		event event_i_d(order_i, 1);
+
+		int count_edges = 0;
+
+		fill(visited.begin(), visited.end(), false);
+		fill(dist_vh.begin(), dist_vh.end(), MAX_NUM);
+		fill(dist_ac.begin(), dist_ac.end(), MAX_NUM);
+
+		long long int vh_start_node = event_i_p.node;
+		dist_vh[vh_start_node] = 0.0;
+		dist_ac[vh_start_node] = 0.0;
+		priority_queue<pair<double, long long int>> pq;
+
+		pq.push({-dist_vh[vh_start_node], vh_start_node});
+		double dist, alt;
+		long long int u, v;
+
+		while(!pq.empty()){
+			pair<double, long long int> top = pq.top();
+			pq.pop();
+
+			u = top.second;
+
+			// cout << "EX " << u << endl;
+
+			if (visited[u])
+				continue;
+
+			if (count_edges > max_count_edges)
+				break;
+
+			if (dist_ac[u] > vehicle_rest_radius_cap){
+				// dist_ac[u] >= shortest_path
+				if (hhl_sp_query(vh_start_node, u) > vehicle_rest_radius_cap)
+					break;
+			}
+
+
+			visited[u] = true;
+			if (node_to_order[u].size() != 0){
+				// if (hhl_sp_query(vh_start_node, u) < vehicle_rest_radius_cap){
+					for(auto j : node_to_order[u]){
+						if (j == i)
+							continue;
+						
+						if (count_edges > max_count_edges)
+							break;
+
+						order order_j = order_set[j];
+
+						event event_j_p(order_j, 0);
+						event event_j_d(order_j, 1);
+
+						vector<event> rp_1{event_i_p, event_i_d, event_j_p, event_j_d};
+						vector<event> rp_2{event_i_p, event_j_p, event_i_d, event_j_d};
+						vector<event> rp_3{event_i_p, event_j_p, event_j_d, event_i_d};
+						
+						vector<vector<event>> all_rp{rp_1, rp_2, rp_3};
+
+						best_plan_tuple bp{{{}, MAX_NUM}, {}}; 
+						for(auto rp:all_rp){
+							best_plan_tuple cp = get_routeplan_cost(rp, global_time);
+							if (cp.first.second < bp.first.second){
+								bp = cp;
+							}
+						}
+						
+						int og_i = min(i,j);
+						int og_j = max(i,j);
+						if (bp.first.second < order_graph[og_i][og_j].first.second){
+							order_graph[og_i][og_j] = bp;
+							count_edges++;
+						}
+					}
+				// }
+			}
+
+			if (count_edges > max_count_edges)
+				break;
+
+			for(int ei = 0; ei < int(edges[u].size()); ei++){
+				v = edges[u][ei];
+				double e_weight = get_edge_weight(u, v, curr_time_slot);
+				double heur_val = heuristic_function_og(order_i, v);
+
+				alt = dist_vh[u] + (1-heuristic_multiplier)*(e_weight)/max_time_dist + heuristic_multiplier*heur_val;
+                // alt = (1-heuristic_multiplier)*(dist_ac[u]+e_weight)/max_time_dist + heuristic_multiplier*heur_val;
+				//alt = (1-heuristic_multiplier)*(hhl_sp_query(u,v))/max_time_dist + heuristic_multiplier*heur_val;
+			
+
+				if (alt < dist_vh[v]){
+					dist_ac[v] = dist_ac[u]+e_weight;
+					dist_vh[v] = alt;
+					pq.push(make_pair(-alt, v));
+				}
+			}
+		}
+	}
+
+	
+	for (int i = 0; i < n; i++){
+		for(int j = i+1; j < n; j++){
+			if (order_graph[i][j].first.second + FP_EPSILON >= MAX_NUM)
+				continue;
+			order_graph[i][j].first.second = order_graph[i][j].first.second - order_graph[i][i].first.second - order_graph[j][j].first.second;
+			if (order_graph[i][j].first.second + FP_EPSILON < 0){
+				cout <<  order_graph[i][j].first.second << " "  << order_graph[i][i].first.second << " " << order_graph[j][j].first.second << endl; 
+				for (auto it:order_graph[i][j].first.first)
+					cout << it.str_val() << "|";
+				cout << "ERROR FOUND" << endl;
+				throw "ERROR FOUND \n";
+			}
+		}
+	}
+
+	return order_graph;
+}
+
 // Given two routeplans, returns a interleaving routeplan with minimal cost
 // while keeping the sequence of input routeplans fixed
 best_plan_tuple get_inserted_bestplan(vector<event> &rp0, vector<event> &rp1, double global_time){
@@ -1458,7 +1614,7 @@ void fair_foody(vector<int> &active_vehicles, vector<order> &active_orders,
 	//int curr_time_slot = ((((long long int)(global_time - global_conf.DAY_TIMESTAMP))%86400 + 86400)%86400)/3600;
     int curr_time_slot = ((((long long int)(global_time))%86400 + 86400)%86400)/3600;
 
-	//cout << global_time << " " << global_conf.end_time + FP_EPSILON << endl;
+	//cout << global_time << " " << end_time + FP_EPSILON << endl;
 
 	cout << "UNPICK ORDERS = " << active_orders.size() << endl;
 
@@ -1747,7 +1903,358 @@ void fair_foody(vector<int> &active_vehicles, vector<order> &active_orders,
 		cout << "assignment_time," << duration.count() << endl;
 }
 
-void two_SF(vector<int> &active_vehicles, vector<order> &active_orders,
-                    double global_time, vector<order> &rejected_orders){
+vector<best_plan_tuple> pack_orders_cluster_gen_rp_opt_general_sp_as_AR_fair(vector<order> &order_set, double global_time, int vh_size){
+	cout << "PACKING STARTED" << endl;
+	
+	double max_merge_cost = max_merge_cost_edt;
+
+    if (max_merge_cost + FP_EPSILON >= MAX_NUM){
+        throw "SOME PROBLEM HERE \n";
+    }
+	auto start = std::chrono::high_resolution_clock::now();
+
+	int n = order_set.size();
+
+	if (n == 0)
+		return {};
+
+	DSU dsu;
+	dsu.init(n);
+	
+	vector<vector<best_plan_tuple>> order_graph = generate_start_order_undirected_graph_sp_as(order_set, global_time);
+	
+	auto stop = std::chrono::high_resolution_clock::now();
+	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
+	if (VERBOSITY == -1)
+		cout << "cluster_pre_time," << duration.count() << endl;
+
+	for(int i = 0; i < n; i++){
+		for(int j = i+1; j < n; j++){
+			double cost = order_graph[i][j].first.second;
+			if (cost + FP_EPSILON >= MAX_NUM)
+				continue;
+		}
+	}
+	
+	vector<best_plan_tuple> cluster_pack;
+	for(auto it:dsu.set_to_elems){
+		cluster_pack.push_back(order_graph[it.first][it.first]);
+	}
+	cout << "CLUSTER_SIZE = " << cluster_pack.size() << endl;
+	cout << "CLUSTER_ITER = " << 0 << endl;
+	return cluster_pack;
 }
 
+void two_SF(vector<int> &active_vehicles, vector<order> &active_orders, double global_time, vector<order> &rejected_orders){
+	auto start = std::chrono::high_resolution_clock::now();
+
+	int curr_time_slot = ((((long long int)(global_time))%86400 + 86400)%86400)/3600;
+
+	// cout << global_time << " " << end_time + FP_EPSILON << endl;
+	cout << "UNPICK ORDERS = " << active_orders.size() << endl;
+
+	auto stop3 = std::chrono::high_resolution_clock::now();
+	auto duration3 = std::chrono::duration_cast<std::chrono::microseconds>(stop3 - start);
+	if (VERBOSITY == -1)
+		cout << "collect_time," << duration3.count() << endl;
+
+	vector<best_plan_tuple> bp_packs = pack_orders_cluster_gen_rp_opt_general_sp_as_AR_fair(active_orders, global_time, active_vehicles.size());
+	
+	vector<vector<order>> order_packs(bp_packs.size());
+	for(int i = 0; i < int(bp_packs.size()); i++){
+		for (auto ev:bp_packs[i].first.first){
+			if (ev.type == 0)
+				order_packs[i].push_back(ev.order_obj);
+		}
+	}
+	
+	auto stop2 = std::chrono::high_resolution_clock::now();
+	auto duration2 = std::chrono::duration_cast<std::chrono::microseconds>(stop2 - start);
+	if (VERBOSITY == -1)
+		cout << "cluster_time," << duration2.count() << endl;
+
+	vector<vector<double>> cost_mat(active_vehicles.size(), vector<double>(order_packs.size(), MAX_NUM));
+	vector<vector<pair<double,double>>> pay_times_mat(active_vehicles.size(), vector<pair<double,double>>(order_packs.size(), make_pair(0,0)));
+
+	vector<vector<best_plan_tuple>> best_plans(active_vehicles.size(), vector<best_plan_tuple>(order_packs.size()));
+
+	vector<vector<int>> node_to_order_pack(nodes_to_latlon.size());
+	for (int i = 0; i < int(bp_packs.size()); i++)
+		node_to_order_pack[bp_packs[i].first.first[0].node].push_back(i);
+	
+	int max_count_edges = int(double(active_orders.size())/double(active_vehicles.size()) * double(vehicle_explore_frac));
+	max_count_edges = max(1, max_count_edges);
+
+	double max_time_dist = slotted_max_time[curr_time_slot];
+	
+	double dj_time = 0.0;
+
+	vector<int> pack_deg(bp_packs.size(), 0);
+
+	vector<bool> visited(nodes_to_latlon.size(), false);
+	vector<double> dist_vh(nodes_to_latlon.size(), MAX_NUM);
+	vector<double> dist_ac(nodes_to_latlon.size(), MAX_NUM);
+
+	// cout << global_time << " MJ " << global_conf.end_time + FP_EPSILON << endl;
+	if ((global_time <= end_time + FP_EPSILON) && (active_orders.size() > 0)){
+		cout << "AS IN AS" << endl;
+		for(int vhi = 0; vhi < int(active_vehicles.size()); vhi++){
+			if (bp_packs.size() == 0)
+				continue;
+			
+			vehicle vh = all_vehicles[active_vehicles[vhi]];
+			
+			vector<event> org_route_plan = vh.route_plan;
+			unordered_map<string, double> org_d_times = get_delivered_times(vh, org_route_plan, global_time);
+			double org_cost;
+            org_cost = get_route_plan_extra_delivery_time(org_d_times, org_route_plan);
+
+			int count_edges = 0;
+
+			fill(visited.begin(), visited.end(), false);
+			fill(dist_vh.begin(), dist_vh.end(), MAX_NUM);
+			fill(dist_ac.begin(), dist_ac.end(), MAX_NUM);
+			long long int vh_start_node = vh.get_current_location();
+			
+			dist_vh[vh_start_node] = 0.0;
+			dist_ac[vh_start_node] = 0.0;
+			
+			priority_queue<pair<double, long long int>> pq;
+
+			// dist + h()
+			pq.push({-dist_vh[vh_start_node], vh_start_node});
+
+			double dist, alt;
+			long long int u, v;
+
+			auto dj_start = std::chrono::high_resolution_clock::now();
+			while(!pq.empty()){
+				pair<double, long long int> top = pq.top();
+				pq.pop();
+
+				u = top.second;
+
+				if (visited[u])
+					continue;
+				
+				if (count_edges > max_count_edges)
+					break;
+
+				if (dist_ac[u] > vehicle_rest_radius_cap){
+					if (hhl_sp_query(vh_start_node, u) > vehicle_rest_radius_cap)
+						break;
+				}
+
+				visited[u] = true;
+				if (node_to_order_pack[u].size() != 0){
+						for(auto pack_idx : node_to_order_pack[u]){
+							if (count_edges > max_count_edges)
+								break;
+							
+							double min_cost = MAX_NUM;
+							vector<event> min_plan;
+							unordered_map<string, double> min_delivery_times;
+
+							vector<order> op = order_packs[pack_idx];
+							vector<event> bp = bp_packs[pack_idx].first.first;
+			
+							if ((int(vh.order_set.size() + op.size()) > 1)) // no batching in 2SF
+								continue;
+							
+							vector<vector<event>> all_route_plans = gen_inserted_sequence_rp(org_route_plan, bp);
+							for(int ri = 0; ri < int(all_route_plans.size()); ri++){
+								bool cap_compatible = check_capacity_constraint(vh, all_route_plans[ri]);
+
+								unordered_map<string, double> d_times = get_delivered_times(vh, all_route_plans[ri], global_time);
+								
+								if (d_times.empty() || !cap_compatible)
+									continue;
+
+								bool sla_compatible = check_route_plan_sla_constraint(d_times, all_route_plans[ri]);
+
+								if (!sla_compatible)
+									continue;
+
+								if (org_cost >= FP_EPSILON){
+									cerr << "org_cost: " << org_cost << ", vh.order_set.size: " << vh.order_set.size()<< endl;
+								}
+								assert(org_cost < FP_EPSILON);
+
+								
+								double plan_cost;
+                                plan_cost = get_route_plan_extra_delivery_time(d_times, all_route_plans[ri]) - org_cost;
+								
+								if (plan_cost < min_cost){
+									min_cost = plan_cost;
+									min_plan = all_route_plans[ri];
+									min_delivery_times = d_times;
+								}
+							}
+							cost_mat[vhi][pack_idx] = min_cost;
+							best_plans[vhi][pack_idx] = {{min_plan, min_cost}, min_delivery_times};
+							if (min_cost + FP_EPSILON < MAX_NUM)
+								count_edges++;
+
+						}
+					//}
+				}
+				if (count_edges > max_count_edges)
+					break;
+				
+				
+
+				for(int ei = 0; ei < int(edges[u].size()); ei++){
+					v = edges[u][ei];
+					double e_weight = get_edge_weight(u, v, curr_time_slot);
+
+					double heur_val = heuristic_function(vh, v);
+					
+					alt = dist_vh[u] + (1-heuristic_multiplier)*(e_weight)/max_time_dist + heuristic_multiplier*heur_val;
+	
+					if (alt < dist_vh[v]){
+						dist_ac[v] = dist_ac[u] + e_weight;
+						dist_vh[v] = alt;
+						pq.push(make_pair(-alt, v));
+					}
+				}
+			}
+			auto dj_stop = std::chrono::high_resolution_clock::now();
+			auto dj_duration = std::chrono::duration_cast<std::chrono::microseconds>(dj_stop - dj_start); 
+
+			dj_time += dj_duration.count();
+			
+		}
+	}
+	cout << "dj_time," << dj_time << endl;
+
+	auto stop = std::chrono::high_resolution_clock::now();
+	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start); 
+	if (VERBOSITY == -1)
+		cout << "cost_time," << duration.count() << endl;
+
+	start = std::chrono::high_resolution_clock::now();
+	
+	double min_cost = 0;
+	for(auto it:cost_mat){
+		for(auto it2:it)
+			min_cost = min(min_cost, it2);
+	}
+
+	cout << "vehicle active time calculation" <<endl;
+	for (int i=0; i<all_vehicles.size(); i++){
+		vehicle* vh = &all_vehicles[i];
+		double temp = 0;
+		for (auto ai:vh->de_intervals){
+			if(ai.end_time < global_time)
+				temp += (ai.end_time - ai.start_time);
+			else
+				temp += max((global_time - ai.start_time), 0.0);
+		}
+		vh->active_time_AR = temp;
+	}
+
+	cout << "max pay calculation" << endl;
+	double max_pay = FP_EPSILON;
+	double max_time = FP_EPSILON;
+	for (auto vh:all_vehicles){
+
+		double vh_pay = 0.8 * vh.wait_time_AR + vh.travel_time_AR;
+		if (vh_pay > max_pay){
+			max_pay = vh_pay;
+			max_time = vh.active_time_AR;
+		}
+	}
+
+	cout << "cost matrix computation" << endl;
+    //TODO make lambda_fair a command line argument
+	double lambda_fair = 0.98;
+	cout << "lambda_fair = " << lambda_fair << endl ;
+
+	for(int i = 0; i < int(active_vehicles.size()); i++){
+		vehicle vh_i = all_vehicles[active_vehicles[i]];
+		double old_pay_i = 0.8 * vh_i.wait_time_AR + vh_i.travel_time_AR;
+
+		for(int j = 0; j < int(order_packs.size()); j++){
+
+			cost_mat[i][j] = (cost_mat[i][j] > max_cost_val)?max_cost_val:cost_mat[i][j];
+			cost_mat[i][j] = cost_mat[i][j] + max(0.0, -min_cost);
+
+			vector<event> rp_j = bp_packs[j].first.first;
+			unordered_map<string, double> delivered_time = get_delivered_times(vh_i, rp_j, global_time);
+			pair<double,double> pay_times =  get_pay_times_AR(delivered_time, rp_j);
+
+			pay_times_mat[i][j].first = pay_times.first;
+			pay_times_mat[i][j].second = pay_times.second;
+
+			double pay_i_j = 0.8 * pay_times.first + pay_times.second;
+			double time_i_j = vh_i.active_time_AR + pay_times.first + pay_times.second;
+			if (cost_mat[i][j] < max_cost_val - FP_EPSILON)
+				cost_mat[i][j] = (1 - lambda_fair) * cost_mat[i][j] + (lambda_fair) * abs(max_pay/max_time - (old_pay_i + pay_i_j)/time_i_j);
+		}
+	}
+
+
+
+	cout<< "COST_MAT_MAXPAY,"<<max_pay<<",max_time,"<<max_time <<endl;
+	
+	// order index assigned to each vehicle (-1 if not assigned an order)
+	cout << "HUN matching" << endl;
+	vector<int> assignment(cost_mat.size(), -1);
+	// cerr << "Hungarian matching" << endl;
+	if (int(cost_mat.size()) > 0 && int(cost_mat[0].size()) > 0){
+		// Hungarian Assignment
+		double cost = HUN_ASSIGN(cost_mat, assignment);
+	}
+	stop = std::chrono::high_resolution_clock::now();
+	duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start); 
+	if (VERBOSITY == -1)
+		cout << "hungarian_time," << duration.count() << endl;
+	
+	for(int i = 0; i < int(assignment.size()); i++){
+		if(assignment[i] != -1){
+			if (cost_mat[i][assignment[i]] + FP_EPSILON >= (max_cost_val + max(0.0, -min_cost)))
+				assignment[i] = -1;
+		}
+	}
+	
+	for(int i = 0; i < int(assignment.size()); i++){
+		if (assignment[i] == -1)
+			continue;
+
+		vehicle* vh_i = &all_vehicles[active_vehicles[i]];
+		vh_i->wait_time_AR += pay_times_mat[i][assignment[i]].first;
+		vh_i->travel_time_AR += pay_times_mat[i][assignment[i]].second;
+	}
+	// Perform respective assignments
+	unordered_map<int, int> vehicle_assigned;
+	for(int i = 0; i < int(assignment.size()); i++){
+		if (assignment[i] != -1){
+			all_vehicles[active_vehicles[i]].assign_order_pack(order_packs[assignment[i]],
+															best_plans[i][assignment[i]].first.first, global_time);
+
+			if (VERBOSITY > 0){
+				for (auto ord_obj:order_packs[assignment[i]])
+					cout << "Vehicle :" << all_vehicles[active_vehicles[i]].vehicle_id << " | Order : " <<  ord_obj.order_id << endl;
+			}
+			
+			if (VERBOSITY == -1){
+				for (auto ord_obj:order_packs[assignment[i]]){
+					vehicle ass_vh = all_vehicles[active_vehicles[i]];
+					cout << fixed << "ASSIGN,"<< ord_obj.order_id << "," << ass_vh.vehicle_id << ","<< global_time << ",";
+					cout<< nodes_to_latlon[ass_vh.path[ass_vh.path_present_idx]].first << "," << nodes_to_latlon[ass_vh.path[ass_vh.path_present_idx]].second << ",";
+					cout<< ord_obj.restaurant.rest_latlon << "," << ord_obj.customer.cust_latlon << endl;
+				}
+			}
+			vehicle_assigned[assignment[i]] = i;
+		}
+	}
+
+	// fill rejected orders in this round
+	for (int i = 0; i < int(order_packs.size()); i++){
+		if (vehicle_assigned.find(i)==vehicle_assigned.end()){
+			for (int j = 0; j < int(order_packs[i].size()); j++){
+				rejected_orders.push_back(order_packs[i][j]);
+			}
+		}
+	}
+}

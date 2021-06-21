@@ -12,6 +12,8 @@ void generate_route_plans(vector<vector<event>> &answer, vector <event> &route_p
 // Cost function
 double get_route_plan_extra_delivery_time(unordered_map<string, double> &delivered_time, vector<event> &route_plan);
 
+pair<double,double> get_pay_times_AR(unordered_map<string, double> &delivered_time, vector<event> &route_plan);
+
 // Returns the time taken to deliver all the orders in route plan(sec)
 // for all orders in delivered_time
 double get_route_plan_total_delivery_time(unordered_map<string, double> &delivered_time, vector<event> &route_plan, double global_time);
