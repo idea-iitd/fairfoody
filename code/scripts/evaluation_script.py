@@ -63,15 +63,15 @@ data_assign = data_assign.groupby('order_id').max()
 data_reject = data[data['a'] == 'REJECT'].drop(['a', 'c', 'd', 'e', 'f', 'g', 'h'], axis = 1)
 data_reject.columns = ['order_id']
 
-data_deliver = data[data['a'] == "DELIVER"].drop(['a', 'e', 'f', 'g', 'h'], axis = 1)
+data_deliver = data[data['a'] == "DELIVER"].drop(['a', 'e', 'f', 'g', 'h'], axis = 1).astype('float64')
 data_deliver.columns = ['order_id', 'delivered_time', 'vehicle_id']
 data_deliver = data_deliver.set_index('order_id')
 
-data_picked = data[data['a'] == "PICKEDUP"].drop(['a', 'd', 'e', 'f', 'g', 'h'], axis = 1)
+data_picked = data[data['a'] == "PICKEDUP"].drop(['a', 'd', 'e', 'f', 'g', 'h'], axis = 1).astype('float64')
 data_picked.columns = ['order_id', 'picked_time']
 data_picked = data_picked.set_index('order_id')
 
-data_reached = data[data['a'] == "REACHED"].drop(['a', 'd', 'e', 'f', 'g', 'h'], axis = 1)
+data_reached = data[data['a'] == "REACHED"].drop(['a', 'd', 'e', 'f', 'g', 'h'], axis = 1).astype('float64')
 data_reached.columns = ['order_id', 'reached_time']
 data_reached = data_reached.groupby('order_id').min()
 
