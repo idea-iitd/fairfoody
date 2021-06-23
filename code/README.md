@@ -39,7 +39,7 @@
         ```
         'FAIR_FOODY' = FairFoody implimentation
         'FM_FULL' = FoodMatch implimentation proposed by Jhoshi et. al. [1], we have reused code provided by [3] in our implementation.
-        '2_SF' = two sided fairness  implimentation proposed by Suhr et. al. [2] (Note lambda is 0.98)
+        '2SF' = two sided fairness  implimentation proposed by Suhr et. al. [2] (Note lambda is 0.98)
           ```
         - **city_name**: Name of city to run algorithm on \[Default: A\]  
         ```
