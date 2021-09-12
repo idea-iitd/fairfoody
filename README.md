@@ -20,7 +20,7 @@ conda activate ff_evn
 ```
 
 ### Datasets and evaluation procedure
-The code for simulation and algorithms defined in our paper is provided in [./code]. An anonymized version of the proprietary dataset is avilable at "https://drive.google.com/drive/folders/1dMpbYklf4zU4IGlR2OG5AA3nmf45_nJy?usp=sharing".
+The code for simulation and algorithms defined in our paper is provided in [./code]. An anonymized version of the proprietary dataset is available at "https://drive.google.com/drive/folders/1dMpbYklf4zU4IGlR2OG5AA3nmf45_nJy?usp=sharing" or "https://bit.ly/3tzP27C".
 
 
 ## References
