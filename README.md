@@ -20,7 +20,7 @@ conda activate ff_evn
 ```
 
 ### Datasets and evaluation procedure
-The code for simulation and algorithms defined in our paper is provided in [./code]. An anonymized version of the proprietary dataset is available at "https://drive.google.com/drive/folders/1dMpbYklf4zU4IGlR2OG5AA3nmf45_nJy?usp=sharing" or "https://bit.ly/3tzP27C".
+The code for simulation and algorithms defined in our paper is provided in [./code](https://github.com/anjaliakg17/fairfoody/tree/main/code). An anonymized version of the proprietary dataset will be made available once an agreement is signed. Instructions to request data are available at this [link](https://www.cse.iitd.ac.in/~sayan/files/foodmatch.txt).
 
 
 ## References
