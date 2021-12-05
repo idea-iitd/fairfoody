@@ -1,6 +1,6 @@
 ## Installation
 
-1. Obtain the anonymized data from "https://drive.google.com/drive/folders/1dMpbYklf4zU4IGlR2OG5AA3nmf45_nJy?usp=sharing" and keep the data according to the following directory structure:
+1. Obtain the anonymized data from [link](https://www.cse.iitd.ac.in/~sayan/files/foodmatch.txt) and keep the data according to the following directory structure:
 ```
 .
 ├─data
