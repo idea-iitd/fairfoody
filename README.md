@@ -1,6 +1,6 @@
 # FairFoody: Bringing in Fairness in Food Delivery
 
-This repository contains official implementation of the algorithms defined in our paper titled Anjali and Rahul Yadav and Ashish Nair and Abhijnan Chakraborty and Sayan Ranu and Amitabha Bagchi, "FairFoody: Bringing in Fairness in Food Delivery", in AAAI, 2022.
+This repository contains official implementation of the algorithms defined in our paper titled, Anjali, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu and Amitabha Bagchi, "FairFoody: Bringing in Fairness in Food Delivery", in AAAI, 2022.
 
 ## Getting Started
 
