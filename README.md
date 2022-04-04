@@ -27,7 +27,7 @@ The code for simulation and algorithms defined in our paper is provided in [./co
 
 ```
 @inproceedings{fairfoody,
-  author = {Anjali and Rahul Yadav and Ashish Nair and Abhijnan Chakraborty and Sayan Ranu and Amitabha Bagchi},
+  author = {Anjali Gupta and Rahul Yadav and Ashish Nair and Abhijnan Chakraborty and Sayan Ranu and Amitabha Bagchi},
   title = {FairFoody: Bringing in Fairness in Food Delivery},
   booktitle = {Proc.~AAAI},
   year = {2022}
