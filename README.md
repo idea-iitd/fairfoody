@@ -23,13 +23,14 @@ conda activate ff_evn
 The code for simulation and algorithms defined in our paper is provided in [./code](https://github.com/idea-iitd/fairfoody/tree/main/code). An anonymized version of the proprietary dataset will be made available once an agreement is signed. Instructions to request data are available at this [link](https://www.cse.iitd.ac.in/~sayan/files/foodmatch.txt).
 
 
+
 ## Bibtex
 
 ```
 @inproceedings{fairfoody,
-  author = {Anjali Gupta and Shreyansh Nagori and Abhijnan Chakraborty and Rohit Vaish and Sayan Ranu and Prajit nadkarni and Narendra Varma and Muthusamy Chelliah},
-  title = {Towards Fair Allocation in Social Commerce Platforms},
-  booktitle = {The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) },
-  year = {2023}
+  author = {Anjali Gupta and Rahul Yadav and Ashish Nair and Abhijnan Chakraborty and Sayan Ranu and Amitabha Bagchi},
+  title = {FairFoody: Bringing in Fairness in Food Delivery},
+  booktitle = {Proc.~AAAI},
+  year = {2022}
 }
 ```
