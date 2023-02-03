@@ -27,9 +27,9 @@ The code for simulation and algorithms defined in our paper is provided in [./co
 
 ```
 @inproceedings{fairfoody,
-  author = {Anjali Gupta and Rahul Yadav and Ashish Nair and Abhijnan Chakraborty and Sayan Ranu and Amitabha Bagchi},
-  title = {FairFoody: Bringing in Fairness in Food Delivery},
-  booktitle = {Proc.~AAAI},
-  year = {2022}
+  author = {Anjali Gupta and Shreyansh Nagori and Abhijnan Chakraborty and Rohit Vaish and Sayan Ranu and Prajit nadkarni and Narendra Varma and Muthusamy Chelliah},
+  title = {Towards Fair Allocation in Social Commerce Platforms},
+  booktitle = {The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) },
+  year = {2023}
 }
 ```
